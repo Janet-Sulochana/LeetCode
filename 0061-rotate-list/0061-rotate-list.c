@@ -21,18 +21,18 @@ struct ListNode* rotateRight(struct ListNode* head, int k) {
     if(k==0) return head;
     for(int i=0;i<k;i++)
     {
+        struct ListNode *current=head;
         struct ListNode *prev=NULL;
-        struct ListNode *tail=head;
-        while(tail->next!=NULL)
+        while(current->next!=NULL)
         {
-            prev=tail;
-            tail=tail->next;
+            prev=current;
+            current=current->next;
         }
         if(prev!=NULL)
         {
             prev->next=NULL;
-            tail->next=head;
-            head=tail;
+            current->next=head;
+            head=current;
         }
     }
     return head;
