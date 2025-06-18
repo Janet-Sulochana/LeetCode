@@ -1,12 +1,16 @@
-void rotate(int* nums, int numsSize, int k) {
-    int n=numsSize;
-    for(int i=0;i<k;i++)
+void reverse(int* nums,int start,int end){
+    while(start<end)
     {
-        int temp=nums[n-1];
-        for(int j=n-1;j>0;j--)
-        {
-            nums[j]=nums[j-1];
-        }
-        nums[0]=temp;
+        int temp=nums[start];
+        nums[start]=nums[end];
+        nums[end]=temp;
+        start++;
+        end--;
     }
+}
+void rotate(int* nums, int numsSize, int k) {
+    k=k%numsSize;
+    reverse(nums,0,numsSize-1);
+    reverse(nums,0,k-1);
+    reverse(nums,k,numsSize-1);
 }
