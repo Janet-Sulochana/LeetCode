@@ -11,23 +11,13 @@ int calculate(char* s) {
         }
         if(!isdigit(c) && c!=' ' || i==len-1)
         {
-            switch(op)
+            if(op=='+' || op=='-')
             {
-                case '+':
                 result+=temp;
-                temp=num;
-                break;
-                case '-':
-                result+=temp;
-                temp=-num;
-                break;
-                case '*':
-                temp*=num;
-                break;
-                case '/':
-                temp/=num;
-                break;
+                temp=(op=='+')?num:-num;
             }
+            else if(op=='*') temp*=num;
+            else if(op=='/') temp/=num;
             op=c;
             num=0;
         }    
