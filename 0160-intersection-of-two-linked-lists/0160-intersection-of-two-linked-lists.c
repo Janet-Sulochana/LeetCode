@@ -9,11 +9,18 @@ struct ListNode *getIntersectionNode(struct ListNode *headA, struct ListNode *he
     if(headA==NULL || headB==NULL)
     return NULL;
     struct ListNode *first=headA;
-    struct ListNode *second=headB;
-    while(first!=second)
+    while(first!=NULL)
     {
-        first=(first==NULL)?headB:first->next;
-        second=(second==NULL)?headA:second->next;
+        struct ListNode *second=headB;
+        while(second!=NULL)
+        {
+            if(first==second)
+            {
+                return first;
+            }
+            second=second->next;
+        }
+        first=first->next;
     }
-    return first;
+    return 0;
 }
