@@ -1,23 +1,8 @@
 /**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     struct TreeNode *left;
- *     struct TreeNode *right;
- * };
+ * Return an array of arrays of size *returnSize.
+ * The sizes of the arrays are returned as *returnColumnSizes array.
+ * Note: Both returned array and *columnSizes array must be malloced, assume caller calls free().
  */
-struct TreeNode* searchBST(struct TreeNode* root, int val) {
-    if(root==NULL || root->val==val)
-    {
-       return root;
-    }
-    if(root->val<val)
-    {
-        return searchBST(root->right,val);
-    }
-    if(root->val>val)
-    {
-        return searchBST(root->left,val);
-    }
-    return NULL;
+int** threeSum(int* nums, int numsSize, int* returnSize, int** returnColumnSizes) {
+   
 }
