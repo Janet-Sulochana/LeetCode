@@ -1,5 +1,5 @@
 bool checkPerfectNumber(int num) {
-    if(num<=1)return true;
+    if(num<=1)return false;
     int sum=1;
     int temp=num;
     for(int i=2;i*i<=num;i++){
