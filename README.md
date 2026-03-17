@@ -77,6 +77,7 @@ Just to Code!!
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Janet-Sulochana/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0149-max-points-on-a-line](https://github.com/Janet-Sulochana/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Janet-Sulochana/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -99,9 +100,11 @@ Just to Code!!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Janet-Sulochana/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Janet-Sulochana/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 <!---LeetCode Topics End-->
