@@ -12,6 +12,7 @@ Just to Code!!
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Janet-Sulochana/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/Janet-Sulochana/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0053-maximum-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -29,6 +30,7 @@ Just to Code!!
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1025-divisor-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/1025-divisor-game/) | Easy |
 ## Brainteaser
@@ -44,6 +46,7 @@ Just to Code!!
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Janet-Sulochana/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0053-maximum-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/Janet-Sulochana/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Janet-Sulochana/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
