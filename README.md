@@ -78,6 +78,7 @@ Just to Code!!
 | [0101-symmetric-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Janet-Sulochana/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Janet-Sulochana/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +86,7 @@ Just to Code!!
 | [0101-symmetric-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Janet-Sulochana/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Janet-Sulochana/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +96,7 @@ Just to Code!!
 | [0101-symmetric-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Janet-Sulochana/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Janet-Sulochana/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +159,7 @@ Just to Code!!
 | [0098-validate-binary-search-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
