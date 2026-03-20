@@ -118,6 +118,7 @@ Just to Code!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Janet-Sulochana/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Janet-Sulochana/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0149-max-points-on-a-line](https://github.com/Janet-Sulochana/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0242-valid-anagram](https://github.com/Janet-Sulochana/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -142,6 +143,7 @@ Just to Code!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Janet-Sulochana/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Janet-Sulochana/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0242-valid-anagram](https://github.com/Janet-Sulochana/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -149,6 +151,7 @@ Just to Code!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Janet-Sulochana/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Janet-Sulochana/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
