@@ -58,6 +58,7 @@ Just to Code!!
 | [0063-unique-paths-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0134-gas-station](https://github.com/Janet-Sulochana/LeetCode/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/Janet-Sulochana/LeetCode/tree/main/0135-candy/) | Hard |
 | [0149-max-points-on-a-line](https://github.com/Janet-Sulochana/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Janet-Sulochana/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -192,4 +193,5 @@ Just to Code!!
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/Janet-Sulochana/LeetCode/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/Janet-Sulochana/LeetCode/tree/main/0135-candy/) | Hard |
 <!---LeetCode Topics End-->
