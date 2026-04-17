@@ -90,6 +90,7 @@ Just to Code!!
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Janet-Sulochana/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Janet-Sulochana/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -114,6 +115,7 @@ Just to Code!!
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Janet-Sulochana/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Janet-Sulochana/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -190,6 +192,7 @@ Just to Code!!
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Janet-Sulochana/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
@@ -201,6 +204,7 @@ Just to Code!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0099-recover-binary-search-tree/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
