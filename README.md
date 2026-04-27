@@ -8,12 +8,14 @@ Just to Code!!
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Janet-Sulochana/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0147-insertion-sort-list](https://github.com/Janet-Sulochana/LeetCode/tree/main/0147-insertion-sort-list/) | Medium |
+| [0148-sort-list](https://github.com/Janet-Sulochana/LeetCode/tree/main/0148-sort-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Janet-Sulochana/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/Janet-Sulochana/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0148-sort-list](https://github.com/Janet-Sulochana/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -23,6 +25,7 @@ Just to Code!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Janet-Sulochana/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0148-sort-list](https://github.com/Janet-Sulochana/LeetCode/tree/main/0148-sort-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,12 +75,14 @@ Just to Code!!
 | ------- | ------- |
 | [0015-3sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0018-4sum/) | Medium |
+| [0148-sort-list](https://github.com/Janet-Sulochana/LeetCode/tree/main/0148-sort-list/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0147-insertion-sort-list](https://github.com/Janet-Sulochana/LeetCode/tree/main/0147-insertion-sort-list/) | Medium |
+| [0148-sort-list](https://github.com/Janet-Sulochana/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0217-contains-duplicate](https://github.com/Janet-Sulochana/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Janet-Sulochana/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Janet-Sulochana/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
