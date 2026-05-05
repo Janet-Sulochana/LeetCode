@@ -247,4 +247,8 @@ Just to Code!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Janet-Sulochana/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0185-department-top-three-salaries](https://github.com/Janet-Sulochana/LeetCode/tree/main/0185-department-top-three-salaries/) | Hard |
 <!---LeetCode Topics End-->
