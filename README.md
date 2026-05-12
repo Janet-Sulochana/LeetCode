@@ -111,6 +111,7 @@ Just to Code!!
 | [0101-symmetric-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Janet-Sulochana/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Janet-Sulochana/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
@@ -125,6 +126,7 @@ Just to Code!!
 | [0101-symmetric-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Janet-Sulochana/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Janet-Sulochana/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/Janet-Sulochana/LeetCode/tree/main/0200-number-of-islands/) | Medium |
@@ -141,6 +143,7 @@ Just to Code!!
 | [0101-symmetric-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Janet-Sulochana/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Janet-Sulochana/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
@@ -223,6 +226,7 @@ Just to Code!!
 | [0099-recover-binary-search-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
