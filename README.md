@@ -270,6 +270,7 @@ Just to Code!!
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Janet-Sulochana/LeetCode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0185-department-top-three-salaries](https://github.com/Janet-Sulochana/LeetCode/tree/main/0185-department-top-three-salaries/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
