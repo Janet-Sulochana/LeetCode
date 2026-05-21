@@ -39,6 +39,7 @@ Just to Code!!
 | [0149-max-points-on-a-line](https://github.com/Janet-Sulochana/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0268-missing-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1025-divisor-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/1025-divisor-game/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +91,7 @@ Just to Code!!
 | [0918-maximum-sum-circular-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1710-maximum-units-on-a-truck](https://github.com/Janet-Sulochana/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,4 +321,8 @@ Just to Code!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
