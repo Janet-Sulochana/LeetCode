@@ -35,6 +35,7 @@ Just to Code!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Janet-Sulochana/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0009-palindrome-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0062-unique-paths](https://github.com/Janet-Sulochana/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/Janet-Sulochana/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0268-missing-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/0268-missing-number/) | Easy |
