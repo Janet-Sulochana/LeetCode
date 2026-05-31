@@ -17,6 +17,7 @@ Just to Code!!
 | [0023-merge-k-sorted-lists](https://github.com/Janet-Sulochana/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/Janet-Sulochana/LeetCode/tree/main/0148-sort-list/) | Medium |
+| [0191-number-of-1-bits](https://github.com/Janet-Sulochana/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0912-sort-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Heap (Priority Queue)
@@ -240,6 +241,7 @@ Just to Code!!
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/Janet-Sulochana/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0980-unique-paths-iii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 ## Stack
