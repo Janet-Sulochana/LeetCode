@@ -84,6 +84,7 @@ Just to Code!!
 | [0134-gas-station](https://github.com/Janet-Sulochana/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/Janet-Sulochana/LeetCode/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/Janet-Sulochana/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/Janet-Sulochana/LeetCode/tree/main/0162-find-peak-element/) | Medium |
@@ -243,6 +244,7 @@ Just to Code!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/Janet-Sulochana/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0980-unique-paths-iii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
