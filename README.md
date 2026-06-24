@@ -82,6 +82,7 @@ Just to Code!!
 | [0055-jump-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0075-sort-colors](https://github.com/Janet-Sulochana/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Janet-Sulochana/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Janet-Sulochana/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -114,6 +115,7 @@ Just to Code!!
 | [0015-3sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Janet-Sulochana/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0075-sort-colors](https://github.com/Janet-Sulochana/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/Janet-Sulochana/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0283-move-zeroes](https://github.com/Janet-Sulochana/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 ## Sorting
@@ -121,6 +123,7 @@ Just to Code!!
 | ------- | ------- |
 | [0015-3sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0018-4sum/) | Medium |
+| [0075-sort-colors](https://github.com/Janet-Sulochana/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0147-insertion-sort-list](https://github.com/Janet-Sulochana/LeetCode/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/Janet-Sulochana/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0217-contains-duplicate](https://github.com/Janet-Sulochana/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
