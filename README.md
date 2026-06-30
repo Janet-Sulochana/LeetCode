@@ -107,6 +107,7 @@ Just to Code!!
 | [0918-maximum-sum-circular-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0980-unique-paths-iii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Janet-Sulochana/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Janet-Sulochana/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Two Pointers
@@ -123,6 +124,7 @@ Just to Code!!
 | [0680-valid-palindrome-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/Janet-Sulochana/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Janet-Sulochana/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +139,7 @@ Just to Code!!
 | [0825-friends-of-appropriate-ages](https://github.com/Janet-Sulochana/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0912-sort-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Janet-Sulochana/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Janet-Sulochana/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -145,6 +148,7 @@ Just to Code!!
 | [0162-find-peak-element](https://github.com/Janet-Sulochana/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/Janet-Sulochana/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Janet-Sulochana/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,6 +218,7 @@ Just to Code!!
 | [0268-missing-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Janet-Sulochana/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Janet-Sulochana/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1915-number-of-wonderful-substrings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1915-number-of-wonderful-substrings/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
