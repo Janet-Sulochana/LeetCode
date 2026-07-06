@@ -103,6 +103,7 @@ Just to Code!!
 | [0503-next-greater-element-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Janet-Sulochana/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/Janet-Sulochana/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Janet-Sulochana/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Janet-Sulochana/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -126,6 +127,7 @@ Just to Code!!
 | [0283-move-zeroes](https://github.com/Janet-Sulochana/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/Janet-Sulochana/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Janet-Sulochana/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Janet-Sulochana/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Janet-Sulochana/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -144,6 +146,7 @@ Just to Code!!
 | [0242-valid-anagram](https://github.com/Janet-Sulochana/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/Janet-Sulochana/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Janet-Sulochana/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Janet-Sulochana/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -348,6 +351,7 @@ Just to Code!!
 | [0134-gas-station](https://github.com/Janet-Sulochana/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/Janet-Sulochana/LeetCode/tree/main/0135-candy/) | Hard |
 | [0680-valid-palindrome-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0881-boats-to-save-people](https://github.com/Janet-Sulochana/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/Janet-Sulochana/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
