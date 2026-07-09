@@ -41,6 +41,7 @@ Just to Code!!
 | [0149-max-points-on-a-line](https://github.com/Janet-Sulochana/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0268-missing-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0477-total-hamming-distance](https://github.com/Janet-Sulochana/LeetCode/tree/main/0477-total-hamming-distance/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/Janet-Sulochana/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1025-divisor-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Dynamic Programming
@@ -125,6 +126,7 @@ Just to Code!!
 | [0075-sort-colors](https://github.com/Janet-Sulochana/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/Janet-Sulochana/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0283-move-zeroes](https://github.com/Janet-Sulochana/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/Janet-Sulochana/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/Janet-Sulochana/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Janet-Sulochana/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -160,6 +162,7 @@ Just to Code!!
 | [0004-median-of-two-sorted-arrays](https://github.com/Janet-Sulochana/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0162-find-peak-element](https://github.com/Janet-Sulochana/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/Janet-Sulochana/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/Janet-Sulochana/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Janet-Sulochana/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Tree
