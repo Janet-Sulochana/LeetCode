@@ -133,6 +133,7 @@ Just to Code!!
 | [0075-sort-colors](https://github.com/Janet-Sulochana/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/Janet-Sulochana/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0283-move-zeroes](https://github.com/Janet-Sulochana/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0455-assign-cookies](https://github.com/Janet-Sulochana/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Janet-Sulochana/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -277,6 +278,7 @@ Just to Code!!
 | [0076-minimum-window-substring](https://github.com/Janet-Sulochana/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0242-valid-anagram](https://github.com/Janet-Sulochana/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0345-reverse-vowels-of-a-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Janet-Sulochana/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
