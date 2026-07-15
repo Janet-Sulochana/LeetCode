@@ -45,6 +45,7 @@ Just to Code!!
 | [0633-sum-of-square-numbers](https://github.com/Janet-Sulochana/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1025-divisor-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2235-add-two-integers](https://github.com/Janet-Sulochana/LeetCode/tree/main/2235-add-two-integers/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Janet-Sulochana/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
