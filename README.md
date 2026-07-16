@@ -108,6 +108,7 @@ Just to Code!!
 | [0477-total-hamming-distance](https://github.com/Janet-Sulochana/LeetCode/tree/main/0477-total-hamming-distance/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Janet-Sulochana/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/Janet-Sulochana/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0832-flipping-an-image](https://github.com/Janet-Sulochana/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Janet-Sulochana/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -291,6 +292,7 @@ Just to Code!!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Janet-Sulochana/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Janet-Sulochana/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0643-maximum-average-subarray-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Janet-Sulochana/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
