@@ -204,6 +204,7 @@ Just to Code!!
 | [0226-invert-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/Janet-Sulochana/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,6 +241,7 @@ Just to Code!!
 | [0226-invert-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/Janet-Sulochana/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -366,6 +368,7 @@ Just to Code!!
 | [0226-invert-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/Janet-Sulochana/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Janet-Sulochana/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -450,4 +453,8 @@ Just to Code!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
