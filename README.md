@@ -415,6 +415,7 @@ Just to Code!!
 | [0185-department-top-three-salaries](https://github.com/Janet-Sulochana/LeetCode/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/Janet-Sulochana/LeetCode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Janet-Sulochana/LeetCode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+| [1075-project-employees-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/1075-project-employees-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Janet-Sulochana/LeetCode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
