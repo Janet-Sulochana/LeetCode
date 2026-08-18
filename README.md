@@ -417,6 +417,7 @@ Just to Code!!
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Janet-Sulochana/LeetCode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1075-project-employees-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/1075-project-employees-i/) | Easy |
 | [1084-sales-analysis-iii](https://github.com/Janet-Sulochana/LeetCode/tree/main/1084-sales-analysis-iii/) | Easy |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Janet-Sulochana/LeetCode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
