@@ -320,6 +320,7 @@ Just to Code!!
 | [0345-reverse-vowels-of-a-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Janet-Sulochana/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/Janet-Sulochana/LeetCode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1154-day-of-the-year](https://github.com/Janet-Sulochana/LeetCode/tree/main/1154-day-of-the-year/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Janet-Sulochana/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
