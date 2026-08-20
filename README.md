@@ -46,6 +46,7 @@ Just to Code!!
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Janet-Sulochana/LeetCode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1025-divisor-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [1154-day-of-the-year](https://github.com/Janet-Sulochana/LeetCode/tree/main/1154-day-of-the-year/) | Easy |
+| [1227-airplane-seat-assignment-probability](https://github.com/Janet-Sulochana/LeetCode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Janet-Sulochana/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Janet-Sulochana/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -70,10 +71,12 @@ Just to Code!!
 | [0787-cheapest-flights-within-k-stops](https://github.com/Janet-Sulochana/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1025-divisor-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/1025-divisor-game/) | Easy |
+| [1227-airplane-seat-assignment-probability](https://github.com/Janet-Sulochana/LeetCode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/1025-divisor-game/) | Easy |
+| [1227-airplane-seat-assignment-probability](https://github.com/Janet-Sulochana/LeetCode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -495,4 +498,8 @@ Just to Code!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Janet-Sulochana/LeetCode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+## Probability and Statistics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/Janet-Sulochana/LeetCode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 <!---LeetCode Topics End-->
