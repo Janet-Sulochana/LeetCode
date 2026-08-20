@@ -132,6 +132,7 @@ Just to Code!!
 | [0980-unique-paths-iii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Janet-Sulochana/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1470-shuffle-the-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Janet-Sulochana/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
