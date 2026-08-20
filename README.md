@@ -437,6 +437,7 @@ Just to Code!!
 | [1084-sales-analysis-iii](https://github.com/Janet-Sulochana/LeetCode/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Janet-Sulochana/LeetCode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+| [1407-top-travellers](https://github.com/Janet-Sulochana/LeetCode/tree/main/1407-top-travellers/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/Janet-Sulochana/LeetCode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/Janet-Sulochana/LeetCode/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/Janet-Sulochana/LeetCode/tree/main/1527-patients-with-a-condition/) | Easy |
