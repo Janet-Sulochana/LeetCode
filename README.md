@@ -45,6 +45,7 @@ Just to Code!!
 | [0633-sum-of-square-numbers](https://github.com/Janet-Sulochana/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Janet-Sulochana/LeetCode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1025-divisor-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/1025-divisor-game/) | Easy |
+| [1154-day-of-the-year](https://github.com/Janet-Sulochana/LeetCode/tree/main/1154-day-of-the-year/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/Janet-Sulochana/LeetCode/tree/main/2235-add-two-integers/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Janet-Sulochana/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -302,6 +303,7 @@ Just to Code!!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1154-day-of-the-year](https://github.com/Janet-Sulochana/LeetCode/tree/main/1154-day-of-the-year/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Janet-Sulochana/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1915-number-of-wonderful-substrings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1915-number-of-wonderful-substrings/) | Medium |
