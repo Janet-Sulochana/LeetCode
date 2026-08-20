@@ -436,6 +436,7 @@ Just to Code!!
 | [1075-project-employees-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/1075-project-employees-i/) | Easy |
 | [1084-sales-analysis-iii](https://github.com/Janet-Sulochana/LeetCode/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
+| [1341-movie-rating](https://github.com/Janet-Sulochana/LeetCode/tree/main/1341-movie-rating/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Janet-Sulochana/LeetCode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1393-capital-gainloss](https://github.com/Janet-Sulochana/LeetCode/tree/main/1393-capital-gainloss/) | Medium |
 | [1407-top-travellers](https://github.com/Janet-Sulochana/LeetCode/tree/main/1407-top-travellers/) | Easy |
