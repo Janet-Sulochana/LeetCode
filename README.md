@@ -287,6 +287,7 @@ Just to Code!!
 | [0705-design-hashset](https://github.com/Janet-Sulochana/LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Janet-Sulochana/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Janet-Sulochana/LeetCode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Janet-Sulochana/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Janet-Sulochana/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Janet-Sulochana/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1915-number-of-wonderful-substrings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1915-number-of-wonderful-substrings/) | Medium |
@@ -331,6 +332,7 @@ Just to Code!!
 | [0771-jewels-and-stones](https://github.com/Janet-Sulochana/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Janet-Sulochana/LeetCode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1154-day-of-the-year](https://github.com/Janet-Sulochana/LeetCode/tree/main/1154-day-of-the-year/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Janet-Sulochana/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Janet-Sulochana/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1528-shuffle-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/1528-shuffle-string/) | Easy |
@@ -501,6 +503,7 @@ Just to Code!!
 | [0594-longest-harmonious-subsequence](https://github.com/Janet-Sulochana/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0912-sort-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Janet-Sulochana/LeetCode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Janet-Sulochana/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Janet-Sulochana/LeetCode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
