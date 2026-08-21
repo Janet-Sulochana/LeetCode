@@ -38,6 +38,7 @@ Just to Code!!
 | [0002-add-two-numbers](https://github.com/Janet-Sulochana/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0062-unique-paths](https://github.com/Janet-Sulochana/LeetCode/tree/main/0062-unique-paths/) | Medium |
+| [0066-plus-one](https://github.com/Janet-Sulochana/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/Janet-Sulochana/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0231-power-of-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -96,6 +97,7 @@ Just to Code!!
 | [0055-jump-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0066-plus-one](https://github.com/Janet-Sulochana/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Janet-Sulochana/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Janet-Sulochana/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Janet-Sulochana/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
