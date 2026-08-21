@@ -48,6 +48,7 @@ Just to Code!!
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Janet-Sulochana/LeetCode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1025-divisor-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [1154-day-of-the-year](https://github.com/Janet-Sulochana/LeetCode/tree/main/1154-day-of-the-year/) | Easy |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Janet-Sulochana/LeetCode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1227-airplane-seat-assignment-probability](https://github.com/Janet-Sulochana/LeetCode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Janet-Sulochana/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -137,6 +138,7 @@ Just to Code!!
 | [0977-squares-of-a-sorted-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0980-unique-paths-iii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1207-unique-number-of-occurrences](https://github.com/Janet-Sulochana/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Janet-Sulochana/LeetCode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Janet-Sulochana/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Janet-Sulochana/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -445,6 +447,7 @@ Just to Code!!
 | [0455-assign-cookies](https://github.com/Janet-Sulochana/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Janet-Sulochana/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Janet-Sulochana/LeetCode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Janet-Sulochana/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
