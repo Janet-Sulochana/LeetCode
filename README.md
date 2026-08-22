@@ -54,6 +54,7 @@ Just to Code!!
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Janet-Sulochana/LeetCode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Janet-Sulochana/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Janet-Sulochana/LeetCode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Janet-Sulochana/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Janet-Sulochana/LeetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -145,6 +146,7 @@ Just to Code!!
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Janet-Sulochana/LeetCode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Janet-Sulochana/LeetCode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Janet-Sulochana/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Janet-Sulochana/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
