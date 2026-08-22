@@ -149,6 +149,7 @@ Just to Code!!
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Janet-Sulochana/LeetCode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Janet-Sulochana/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Janet-Sulochana/LeetCode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Janet-Sulochana/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -384,6 +385,7 @@ Just to Code!!
 | [0733-flood-fill](https://github.com/Janet-Sulochana/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0832-flipping-an-image](https://github.com/Janet-Sulochana/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0980-unique-paths-iii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Janet-Sulochana/LeetCode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Janet-Sulochana/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
