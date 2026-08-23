@@ -56,6 +56,7 @@ Just to Code!!
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Janet-Sulochana/LeetCode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Janet-Sulochana/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Janet-Sulochana/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Janet-Sulochana/LeetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/Janet-Sulochana/LeetCode/tree/main/2235-add-two-integers/) | Easy |
@@ -158,6 +159,7 @@ Just to Code!!
 | [1470-shuffle-the-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Janet-Sulochana/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Janet-Sulochana/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/1528-shuffle-string/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Janet-Sulochana/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Janet-Sulochana/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
@@ -312,6 +314,7 @@ Just to Code!!
 | [1370-increasing-decreasing-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1436-destination-city](https://github.com/Janet-Sulochana/LeetCode/tree/main/1436-destination-city/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Janet-Sulochana/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Janet-Sulochana/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1915-number-of-wonderful-substrings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1915-number-of-wonderful-substrings/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Janet-Sulochana/LeetCode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
@@ -540,6 +543,7 @@ Just to Code!!
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Janet-Sulochana/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Janet-Sulochana/LeetCode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
