@@ -165,6 +165,7 @@ Just to Code!!
 | [1534-count-good-triplets](https://github.com/Janet-Sulochana/LeetCode/tree/main/1534-count-good-triplets/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Janet-Sulochana/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Janet-Sulochana/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Janet-Sulochana/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Janet-Sulochana/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -372,6 +373,7 @@ Just to Code!!
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Janet-Sulochana/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1528-shuffle-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/1528-shuffle-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Janet-Sulochana/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Janet-Sulochana/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1915-number-of-wonderful-substrings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1915-number-of-wonderful-substrings/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Janet-Sulochana/LeetCode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
