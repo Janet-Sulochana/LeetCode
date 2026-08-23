@@ -156,6 +156,7 @@ Just to Code!!
 | [1436-destination-city](https://github.com/Janet-Sulochana/LeetCode/tree/main/1436-destination-city/) | Easy |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Janet-Sulochana/LeetCode/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Janet-Sulochana/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1528-shuffle-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/1528-shuffle-string/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Janet-Sulochana/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -423,6 +424,7 @@ Just to Code!!
 | [0144-binary-tree-preorder-traversal](https://github.com/Janet-Sulochana/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Janet-Sulochana/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Janet-Sulochana/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Janet-Sulochana/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -510,6 +512,7 @@ Just to Code!!
 | [0042-trapping-rain-water](https://github.com/Janet-Sulochana/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Janet-Sulochana/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Janet-Sulochana/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
