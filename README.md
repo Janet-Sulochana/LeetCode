@@ -192,6 +192,7 @@ Just to Code!!
 | [1732-find-the-highest-altitude](https://github.com/Janet-Sulochana/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Janet-Sulochana/LeetCode/tree/main/1773-count-items-matching-a-rule/) | Easy |
+| [1816-truncate-sentence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [1854-maximum-population-year](https://github.com/Janet-Sulochana/LeetCode/tree/main/1854-maximum-population-year/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Janet-Sulochana/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -426,6 +427,7 @@ Just to Code!!
 | [1768-merge-strings-alternately](https://github.com/Janet-Sulochana/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Janet-Sulochana/LeetCode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Janet-Sulochana/LeetCode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
+| [1816-truncate-sentence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Janet-Sulochana/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1915-number-of-wonderful-substrings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1915-number-of-wonderful-substrings/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Janet-Sulochana/LeetCode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
