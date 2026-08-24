@@ -174,6 +174,7 @@ Just to Code!!
 | [1854-maximum-population-year](https://github.com/Janet-Sulochana/LeetCode/tree/main/1854-maximum-population-year/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Janet-Sulochana/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Janet-Sulochana/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Janet-Sulochana/LeetCode/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Two Pointers
@@ -390,6 +391,7 @@ Just to Code!!
 | [1915-number-of-wonderful-substrings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1915-number-of-wonderful-substrings/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Janet-Sulochana/LeetCode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Janet-Sulochana/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Janet-Sulochana/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/Janet-Sulochana/LeetCode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -593,6 +595,7 @@ Just to Code!!
 | [1389-create-target-array-in-the-given-order](https://github.com/Janet-Sulochana/LeetCode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Janet-Sulochana/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Janet-Sulochana/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Janet-Sulochana/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
