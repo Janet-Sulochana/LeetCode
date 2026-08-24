@@ -464,6 +464,7 @@ Just to Code!!
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Janet-Sulochana/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Janet-Sulochana/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/Janet-Sulochana/LeetCode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -684,6 +685,7 @@ Just to Code!!
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Janet-Sulochana/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/Janet-Sulochana/LeetCode/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
