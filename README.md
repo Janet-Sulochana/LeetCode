@@ -172,6 +172,7 @@ Just to Code!!
 | [1710-maximum-units-on-a-truck](https://github.com/Janet-Sulochana/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1854-maximum-population-year](https://github.com/Janet-Sulochana/LeetCode/tree/main/1854-maximum-population-year/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/Janet-Sulochana/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Janet-Sulochana/LeetCode/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
@@ -591,6 +592,7 @@ Just to Code!!
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Janet-Sulochana/LeetCode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Janet-Sulochana/LeetCode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Janet-Sulochana/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/Janet-Sulochana/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
