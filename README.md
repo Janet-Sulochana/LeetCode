@@ -256,6 +256,7 @@ Just to Code!!
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Janet-Sulochana/LeetCode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Janet-Sulochana/LeetCode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Janet-Sulochana/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Binary Search
@@ -432,6 +433,7 @@ Just to Code!!
 | [1816-truncate-sentence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Janet-Sulochana/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/1844-replace-all-digits-with-characters/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1915-number-of-wonderful-substrings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1915-number-of-wonderful-substrings/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Janet-Sulochana/LeetCode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Janet-Sulochana/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -693,4 +695,5 @@ Just to Code!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/Janet-Sulochana/LeetCode/tree/main/1051-height-checker/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
 <!---LeetCode Topics End-->
