@@ -134,6 +134,7 @@ Just to Code!!
 | [0503-next-greater-element-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Janet-Sulochana/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Janet-Sulochana/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0605-can-place-flowers](https://github.com/Janet-Sulochana/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0705-design-hashset](https://github.com/Janet-Sulochana/LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [0733-flood-fill](https://github.com/Janet-Sulochana/LeetCode/tree/main/0733-flood-fill/) | Easy |
@@ -507,6 +508,7 @@ Just to Code!!
 | [0134-gas-station](https://github.com/Janet-Sulochana/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/Janet-Sulochana/LeetCode/tree/main/0135-candy/) | Hard |
 | [0455-assign-cookies](https://github.com/Janet-Sulochana/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0605-can-place-flowers](https://github.com/Janet-Sulochana/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Janet-Sulochana/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Janet-Sulochana/LeetCode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
