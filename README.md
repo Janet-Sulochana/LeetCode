@@ -186,6 +186,7 @@ Just to Code!!
 | [1684-count-the-number-of-consistent-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Janet-Sulochana/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Janet-Sulochana/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/Janet-Sulochana/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1854-maximum-population-year](https://github.com/Janet-Sulochana/LeetCode/tree/main/1854-maximum-population-year/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Janet-Sulochana/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -369,6 +370,7 @@ Just to Code!!
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Janet-Sulochana/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/Janet-Sulochana/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1854-maximum-population-year](https://github.com/Janet-Sulochana/LeetCode/tree/main/1854-maximum-population-year/) | Easy |
 | [1915-number-of-wonderful-substrings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1915-number-of-wonderful-substrings/) | Medium |
 ## Queue
