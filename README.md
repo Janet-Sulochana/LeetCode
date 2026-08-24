@@ -214,6 +214,7 @@ Just to Code!!
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Janet-Sulochana/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Janet-Sulochana/LeetCode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
+| [2418-sort-the-people](https://github.com/Janet-Sulochana/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Janet-Sulochana/LeetCode/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -279,6 +280,7 @@ Just to Code!!
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Janet-Sulochana/LeetCode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
+| [2418-sort-the-people](https://github.com/Janet-Sulochana/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -393,6 +395,7 @@ Just to Code!!
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Janet-Sulochana/LeetCode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Janet-Sulochana/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2418-sort-the-people](https://github.com/Janet-Sulochana/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -470,6 +473,7 @@ Just to Code!!
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2278-percentage-of-letter-in-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2278-percentage-of-letter-in-string/) | Easy |
 | [2315-count-asterisks](https://github.com/Janet-Sulochana/LeetCode/tree/main/2315-count-asterisks/) | Easy |
+| [2418-sort-the-people](https://github.com/Janet-Sulochana/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/Janet-Sulochana/LeetCode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
