@@ -66,6 +66,7 @@ Just to Code!!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/Janet-Sulochana/LeetCode/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2169-count-operations-to-obtain-zero](https://github.com/Janet-Sulochana/LeetCode/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2235-add-two-integers](https://github.com/Janet-Sulochana/LeetCode/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Janet-Sulochana/LeetCode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Janet-Sulochana/LeetCode/tree/main/2469-convert-the-temperature/) | Easy |
@@ -670,6 +671,7 @@ Just to Code!!
 | [1920-build-array-from-permutation](https://github.com/Janet-Sulochana/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Janet-Sulochana/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2169-count-operations-to-obtain-zero](https://github.com/Janet-Sulochana/LeetCode/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
