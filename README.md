@@ -111,6 +111,7 @@ Just to Code!!
 | [0016-3sum-closest](https://github.com/Janet-Sulochana/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Janet-Sulochana/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0049-group-anagrams](https://github.com/Janet-Sulochana/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
@@ -247,6 +248,7 @@ Just to Code!!
 | [0015-3sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Janet-Sulochana/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0018-4sum/) | Medium |
+| [0049-group-anagrams](https://github.com/Janet-Sulochana/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/Janet-Sulochana/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0147-insertion-sort-list](https://github.com/Janet-Sulochana/LeetCode/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/Janet-Sulochana/LeetCode/tree/main/0148-sort-list/) | Medium |
@@ -355,6 +357,7 @@ Just to Code!!
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Janet-Sulochana/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0049-group-anagrams](https://github.com/Janet-Sulochana/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Janet-Sulochana/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0149-max-points-on-a-line](https://github.com/Janet-Sulochana/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0205-isomorphic-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
@@ -421,6 +424,7 @@ Just to Code!!
 | [0014-longest-common-prefix](https://github.com/Janet-Sulochana/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Janet-Sulochana/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0049-group-anagrams](https://github.com/Janet-Sulochana/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Janet-Sulochana/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0205-isomorphic-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Janet-Sulochana/LeetCode/tree/main/0242-valid-anagram/) | Easy |
