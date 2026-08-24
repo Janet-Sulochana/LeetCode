@@ -202,6 +202,7 @@ Just to Code!!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Janet-Sulochana/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Janet-Sulochana/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Janet-Sulochana/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Janet-Sulochana/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Janet-Sulochana/LeetCode/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
@@ -262,6 +263,7 @@ Just to Code!!
 | [1710-maximum-units-on-a-truck](https://github.com/Janet-Sulochana/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Janet-Sulochana/LeetCode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Janet-Sulochana/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Binary Search
@@ -562,6 +564,7 @@ Just to Code!!
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Janet-Sulochana/LeetCode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Janet-Sulochana/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Janet-Sulochana/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -636,6 +639,7 @@ Just to Code!!
 | [1854-maximum-population-year](https://github.com/Janet-Sulochana/LeetCode/tree/main/1854-maximum-population-year/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Janet-Sulochana/LeetCode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Janet-Sulochana/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Janet-Sulochana/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
