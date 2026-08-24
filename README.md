@@ -196,6 +196,7 @@ Just to Code!!
 | [1816-truncate-sentence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1854-maximum-population-year](https://github.com/Janet-Sulochana/LeetCode/tree/main/1854-maximum-population-year/) | Easy |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Janet-Sulochana/LeetCode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Janet-Sulochana/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Janet-Sulochana/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -257,6 +258,7 @@ Just to Code!!
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Janet-Sulochana/LeetCode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Janet-Sulochana/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Janet-Sulochana/LeetCode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Binary Search
@@ -687,6 +689,7 @@ Just to Code!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Janet-Sulochana/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Janet-Sulochana/LeetCode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 ## Polygons
 | Problem Name | Difficulty |
 | ------- | ------- |
