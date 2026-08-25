@@ -154,6 +154,7 @@ Just to Code!!
 | [0598-range-addition-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0598-range-addition-ii/) | Easy |
 | [0605-can-place-flowers](https://github.com/Janet-Sulochana/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Janet-Sulochana/LeetCode/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0705-design-hashset](https://github.com/Janet-Sulochana/LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [0733-flood-fill](https://github.com/Janet-Sulochana/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/Janet-Sulochana/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
