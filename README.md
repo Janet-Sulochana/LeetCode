@@ -534,6 +534,7 @@ Just to Code!!
 | [0231-power-of-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0461-hamming-distance](https://github.com/Janet-Sulochana/LeetCode/tree/main/0461-hamming-distance/) | Easy |
 | [0476-number-complement](https://github.com/Janet-Sulochana/LeetCode/tree/main/0476-number-complement/) | Easy |
 | [0477-total-hamming-distance](https://github.com/Janet-Sulochana/LeetCode/tree/main/0477-total-hamming-distance/) | Medium |
 | [0832-flipping-an-image](https://github.com/Janet-Sulochana/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
