@@ -142,6 +142,7 @@ Just to Code!!
 | [0455-assign-cookies](https://github.com/Janet-Sulochana/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0463-island-perimeter](https://github.com/Janet-Sulochana/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0477-total-hamming-distance](https://github.com/Janet-Sulochana/LeetCode/tree/main/0477-total-hamming-distance/) | Medium |
+| [0495-teemo-attacking](https://github.com/Janet-Sulochana/LeetCode/tree/main/0495-teemo-attacking/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Janet-Sulochana/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/Janet-Sulochana/LeetCode/tree/main/0561-array-partition/) | Easy |
@@ -710,6 +711,7 @@ Just to Code!!
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0495-teemo-attacking](https://github.com/Janet-Sulochana/LeetCode/tree/main/0495-teemo-attacking/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Janet-Sulochana/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Janet-Sulochana/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0832-flipping-an-image](https://github.com/Janet-Sulochana/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
