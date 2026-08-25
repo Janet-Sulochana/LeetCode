@@ -143,6 +143,7 @@ Just to Code!!
 | [0463-island-perimeter](https://github.com/Janet-Sulochana/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0477-total-hamming-distance](https://github.com/Janet-Sulochana/LeetCode/tree/main/0477-total-hamming-distance/) | Medium |
 | [0495-teemo-attacking](https://github.com/Janet-Sulochana/LeetCode/tree/main/0495-teemo-attacking/) | Easy |
+| [0500-keyboard-row](https://github.com/Janet-Sulochana/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Janet-Sulochana/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/Janet-Sulochana/LeetCode/tree/main/0561-array-partition/) | Easy |
@@ -384,6 +385,7 @@ Just to Code!!
 | [0290-word-pattern](https://github.com/Janet-Sulochana/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/Janet-Sulochana/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0500-keyboard-row](https://github.com/Janet-Sulochana/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Janet-Sulochana/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Janet-Sulochana/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0705-design-hashset](https://github.com/Janet-Sulochana/LeetCode/tree/main/0705-design-hashset/) | Easy |
@@ -453,6 +455,7 @@ Just to Code!!
 | [0345-reverse-vowels-of-a-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/Janet-Sulochana/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/Janet-Sulochana/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0500-keyboard-row](https://github.com/Janet-Sulochana/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0520-detect-capital](https://github.com/Janet-Sulochana/LeetCode/tree/main/0520-detect-capital/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Janet-Sulochana/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
