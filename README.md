@@ -218,6 +218,7 @@ Just to Code!!
 | [2418-sort-the-people](https://github.com/Janet-Sulochana/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Janet-Sulochana/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/Janet-Sulochana/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Janet-Sulochana/LeetCode/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -419,6 +420,7 @@ Just to Code!!
 | [1732-find-the-highest-altitude](https://github.com/Janet-Sulochana/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1854-maximum-population-year](https://github.com/Janet-Sulochana/LeetCode/tree/main/1854-maximum-population-year/) | Easy |
 | [1915-number-of-wonderful-substrings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1915-number-of-wonderful-substrings/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/Janet-Sulochana/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
