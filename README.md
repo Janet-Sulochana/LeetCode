@@ -446,6 +446,7 @@ Just to Code!!
 | [0290-word-pattern](https://github.com/Janet-Sulochana/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0520-detect-capital](https://github.com/Janet-Sulochana/LeetCode/tree/main/0520-detect-capital/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Janet-Sulochana/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/Janet-Sulochana/LeetCode/tree/main/0709-to-lower-case/) | Easy |
