@@ -217,6 +217,7 @@ Just to Code!!
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Janet-Sulochana/LeetCode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2418-sort-the-people](https://github.com/Janet-Sulochana/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Janet-Sulochana/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Janet-Sulochana/LeetCode/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -479,6 +480,7 @@ Just to Code!!
 | [2278-percentage-of-letter-in-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2278-percentage-of-letter-in-string/) | Easy |
 | [2315-count-asterisks](https://github.com/Janet-Sulochana/LeetCode/tree/main/2315-count-asterisks/) | Easy |
 | [2418-sort-the-people](https://github.com/Janet-Sulochana/LeetCode/tree/main/2418-sort-the-people/) | Easy |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/Janet-Sulochana/LeetCode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
