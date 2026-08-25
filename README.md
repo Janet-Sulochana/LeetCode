@@ -451,6 +451,7 @@ Just to Code!!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/Janet-Sulochana/LeetCode/tree/main/0383-ransom-note/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/Janet-Sulochana/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0520-detect-capital](https://github.com/Janet-Sulochana/LeetCode/tree/main/0520-detect-capital/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Janet-Sulochana/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -723,6 +724,7 @@ Just to Code!!
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Janet-Sulochana/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -773,4 +775,12 @@ Just to Code!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Janet-Sulochana/LeetCode/tree/main/0743-network-delay-time/) | Medium |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Janet-Sulochana/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Janet-Sulochana/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
 <!---LeetCode Topics End-->
