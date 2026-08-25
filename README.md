@@ -145,6 +145,7 @@ Just to Code!!
 | [0503-next-greater-element-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Janet-Sulochana/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/Janet-Sulochana/LeetCode/tree/main/0561-array-partition/) | Easy |
+| [0566-reshape-the-matrix](https://github.com/Janet-Sulochana/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Janet-Sulochana/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0605-can-place-flowers](https://github.com/Janet-Sulochana/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -510,6 +511,7 @@ Just to Code!!
 | [0064-minimum-path-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/Janet-Sulochana/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/Janet-Sulochana/LeetCode/tree/main/0463-island-perimeter/) | Easy |
+| [0566-reshape-the-matrix](https://github.com/Janet-Sulochana/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0733-flood-fill](https://github.com/Janet-Sulochana/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0832-flipping-an-image](https://github.com/Janet-Sulochana/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0980-unique-paths-iii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
@@ -702,6 +704,7 @@ Just to Code!!
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0566-reshape-the-matrix](https://github.com/Janet-Sulochana/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Janet-Sulochana/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0832-flipping-an-image](https://github.com/Janet-Sulochana/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Janet-Sulochana/LeetCode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
