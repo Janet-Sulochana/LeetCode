@@ -148,6 +148,7 @@ Just to Code!!
 | [0560-subarray-sum-equals-k](https://github.com/Janet-Sulochana/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/Janet-Sulochana/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Janet-Sulochana/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0575-distribute-candies](https://github.com/Janet-Sulochana/LeetCode/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Janet-Sulochana/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0605-can-place-flowers](https://github.com/Janet-Sulochana/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -387,6 +388,7 @@ Just to Code!!
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0500-keyboard-row](https://github.com/Janet-Sulochana/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Janet-Sulochana/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0575-distribute-candies](https://github.com/Janet-Sulochana/LeetCode/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Janet-Sulochana/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0705-design-hashset](https://github.com/Janet-Sulochana/LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Janet-Sulochana/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
