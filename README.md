@@ -331,6 +331,7 @@ Just to Code!!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/Janet-Sulochana/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/Janet-Sulochana/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -346,6 +347,7 @@ Just to Code!!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/Janet-Sulochana/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0463-island-perimeter](https://github.com/Janet-Sulochana/LeetCode/tree/main/0463-island-perimeter/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/Janet-Sulochana/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0733-flood-fill](https://github.com/Janet-Sulochana/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/Janet-Sulochana/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Janet-Sulochana/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -372,6 +374,7 @@ Just to Code!!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/Janet-Sulochana/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/Janet-Sulochana/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -590,6 +593,7 @@ Just to Code!!
 | [0404-sum-of-left-leaves](https://github.com/Janet-Sulochana/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0463-island-perimeter](https://github.com/Janet-Sulochana/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/Janet-Sulochana/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0733-flood-fill](https://github.com/Janet-Sulochana/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/Janet-Sulochana/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Janet-Sulochana/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
