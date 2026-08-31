@@ -160,6 +160,7 @@ Just to Code!!
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Janet-Sulochana/LeetCode/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0705-design-hashset](https://github.com/Janet-Sulochana/LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [0733-flood-fill](https://github.com/Janet-Sulochana/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Janet-Sulochana/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0748-shortest-completing-word](https://github.com/Janet-Sulochana/LeetCode/tree/main/0748-shortest-completing-word/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0819-most-common-word](https://github.com/Janet-Sulochana/LeetCode/tree/main/0819-most-common-word/) | Easy |
@@ -320,6 +321,7 @@ Just to Code!!
 | [0209-minimum-size-subarray-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Janet-Sulochana/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Janet-Sulochana/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/Janet-Sulochana/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Janet-Sulochana/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Janet-Sulochana/LeetCode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
