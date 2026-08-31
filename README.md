@@ -69,6 +69,7 @@ Just to Code!!
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Janet-Sulochana/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Janet-Sulochana/LeetCode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/Janet-Sulochana/LeetCode/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
@@ -552,6 +553,7 @@ Just to Code!!
 | [1844-replace-all-digits-with-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Janet-Sulochana/LeetCode/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1915-number-of-wonderful-substrings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1915-number-of-wonderful-substrings/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Janet-Sulochana/LeetCode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
@@ -692,6 +694,7 @@ Just to Code!!
 | [1221-split-a-string-in-balanced-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Janet-Sulochana/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/1736-latest-time-by-replacing-hidden-digits/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Janet-Sulochana/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Janet-Sulochana/LeetCode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
