@@ -208,6 +208,7 @@ Just to Code!!
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Janet-Sulochana/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1598-crawler-log-folder](https://github.com/Janet-Sulochana/LeetCode/tree/main/1598-crawler-log-folder/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Janet-Sulochana/LeetCode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
+| [1629-slowest-key](https://github.com/Janet-Sulochana/LeetCode/tree/main/1629-slowest-key/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Janet-Sulochana/LeetCode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Janet-Sulochana/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Janet-Sulochana/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -524,6 +525,7 @@ Just to Code!!
 | [1598-crawler-log-folder](https://github.com/Janet-Sulochana/LeetCode/tree/main/1598-crawler-log-folder/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
+| [1629-slowest-key](https://github.com/Janet-Sulochana/LeetCode/tree/main/1629-slowest-key/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Janet-Sulochana/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Janet-Sulochana/LeetCode/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
