@@ -191,6 +191,7 @@ Just to Code!!
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Janet-Sulochana/LeetCode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Janet-Sulochana/LeetCode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1408-string-matching-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Janet-Sulochana/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1436-destination-city](https://github.com/Janet-Sulochana/LeetCode/tree/main/1436-destination-city/) | Easy |
@@ -509,6 +510,7 @@ Just to Code!!
 | [1360-number-of-days-between-two-dates](https://github.com/Janet-Sulochana/LeetCode/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Janet-Sulochana/LeetCode/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
+| [1408-string-matching-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1436-destination-city](https://github.com/Janet-Sulochana/LeetCode/tree/main/1436-destination-city/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Janet-Sulochana/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -778,6 +780,7 @@ Just to Code!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Janet-Sulochana/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [1408-string-matching-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
