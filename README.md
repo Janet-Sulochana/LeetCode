@@ -160,6 +160,7 @@ Just to Code!!
 | [0748-shortest-completing-word](https://github.com/Janet-Sulochana/LeetCode/tree/main/0748-shortest-completing-word/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0819-most-common-word](https://github.com/Janet-Sulochana/LeetCode/tree/main/0819-most-common-word/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/Janet-Sulochana/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/Janet-Sulochana/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0832-flipping-an-image](https://github.com/Janet-Sulochana/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Janet-Sulochana/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -248,6 +249,7 @@ Just to Code!!
 | [0455-assign-cookies](https://github.com/Janet-Sulochana/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Janet-Sulochana/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/Janet-Sulochana/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/Janet-Sulochana/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0832-flipping-an-image](https://github.com/Janet-Sulochana/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Janet-Sulochana/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -477,6 +479,7 @@ Just to Code!!
 | [0771-jewels-and-stones](https://github.com/Janet-Sulochana/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0819-most-common-word](https://github.com/Janet-Sulochana/LeetCode/tree/main/0819-most-common-word/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/Janet-Sulochana/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [1002-find-common-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/1002-find-common-characters/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Janet-Sulochana/LeetCode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1154-day-of-the-year](https://github.com/Janet-Sulochana/LeetCode/tree/main/1154-day-of-the-year/) | Easy |
