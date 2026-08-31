@@ -53,6 +53,7 @@ Just to Code!!
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Janet-Sulochana/LeetCode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Janet-Sulochana/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1025-divisor-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/1025-divisor-game/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1154-day-of-the-year](https://github.com/Janet-Sulochana/LeetCode/tree/main/1154-day-of-the-year/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Janet-Sulochana/LeetCode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1227-airplane-seat-assignment-probability](https://github.com/Janet-Sulochana/LeetCode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
@@ -493,6 +494,7 @@ Just to Code!!
 | [0929-unique-email-addresses](https://github.com/Janet-Sulochana/LeetCode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1002-find-common-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/1002-find-common-characters/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Janet-Sulochana/LeetCode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1154-day-of-the-year](https://github.com/Janet-Sulochana/LeetCode/tree/main/1154-day-of-the-year/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Janet-Sulochana/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -775,11 +777,13 @@ Just to Code!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Janet-Sulochana/LeetCode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Janet-Sulochana/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Janet-Sulochana/LeetCode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Janet-Sulochana/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
 ## Probability and Statistics
 | Problem Name | Difficulty |
