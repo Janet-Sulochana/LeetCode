@@ -406,6 +406,7 @@ Just to Code!!
 | [0748-shortest-completing-word](https://github.com/Janet-Sulochana/LeetCode/tree/main/0748-shortest-completing-word/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Janet-Sulochana/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0819-most-common-word](https://github.com/Janet-Sulochana/LeetCode/tree/main/0819-most-common-word/) | Easy |
+| [0859-buddy-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/0859-buddy-strings/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Janet-Sulochana/LeetCode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0997-find-the-town-judge](https://github.com/Janet-Sulochana/LeetCode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1002-find-common-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/1002-find-common-characters/) | Easy |
@@ -481,6 +482,7 @@ Just to Code!!
 | [0806-number-of-lines-to-write-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0819-most-common-word](https://github.com/Janet-Sulochana/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Janet-Sulochana/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0859-buddy-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/0859-buddy-strings/) | Easy |
 | [1002-find-common-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/1002-find-common-characters/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Janet-Sulochana/LeetCode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1154-day-of-the-year](https://github.com/Janet-Sulochana/LeetCode/tree/main/1154-day-of-the-year/) | Easy |
