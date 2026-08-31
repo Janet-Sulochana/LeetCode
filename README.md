@@ -254,6 +254,7 @@ Just to Code!!
 | [0832-flipping-an-image](https://github.com/Janet-Sulochana/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Janet-Sulochana/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Janet-Sulochana/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0917-reverse-only-letters](https://github.com/Janet-Sulochana/LeetCode/tree/main/0917-reverse-only-letters/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Janet-Sulochana/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
@@ -484,6 +485,7 @@ Just to Code!!
 | [0821-shortest-distance-to-a-character](https://github.com/Janet-Sulochana/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0830-positions-of-large-groups](https://github.com/Janet-Sulochana/LeetCode/tree/main/0830-positions-of-large-groups/) | Easy |
 | [0859-buddy-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/0859-buddy-strings/) | Easy |
+| [0917-reverse-only-letters](https://github.com/Janet-Sulochana/LeetCode/tree/main/0917-reverse-only-letters/) | Easy |
 | [1002-find-common-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/1002-find-common-characters/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Janet-Sulochana/LeetCode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1154-day-of-the-year](https://github.com/Janet-Sulochana/LeetCode/tree/main/1154-day-of-the-year/) | Easy |
