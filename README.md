@@ -536,6 +536,7 @@ Just to Code!!
 | [1678-goal-parser-interpretation](https://github.com/Janet-Sulochana/LeetCode/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Janet-Sulochana/LeetCode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/1736-latest-time-by-replacing-hidden-digits/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Janet-Sulochana/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Janet-Sulochana/LeetCode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Janet-Sulochana/LeetCode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
@@ -682,6 +683,7 @@ Just to Code!!
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Janet-Sulochana/LeetCode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Janet-Sulochana/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/1736-latest-time-by-replacing-hidden-digits/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Janet-Sulochana/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Janet-Sulochana/LeetCode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
