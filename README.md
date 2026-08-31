@@ -537,6 +537,7 @@ Just to Code!!
 | [1684-count-the-number-of-consistent-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Janet-Sulochana/LeetCode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/1736-latest-time-by-replacing-hidden-digits/) | Easy |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Janet-Sulochana/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Janet-Sulochana/LeetCode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Janet-Sulochana/LeetCode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
