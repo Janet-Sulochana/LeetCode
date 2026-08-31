@@ -169,6 +169,7 @@ Just to Code!!
 | [0912-sort-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Janet-Sulochana/LeetCode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0929-unique-email-addresses](https://github.com/Janet-Sulochana/LeetCode/tree/main/0929-unique-email-addresses/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Janet-Sulochana/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0980-unique-paths-iii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
@@ -410,6 +411,7 @@ Just to Code!!
 | [0819-most-common-word](https://github.com/Janet-Sulochana/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [0859-buddy-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/0859-buddy-strings/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Janet-Sulochana/LeetCode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [0929-unique-email-addresses](https://github.com/Janet-Sulochana/LeetCode/tree/main/0929-unique-email-addresses/) | Easy |
 | [0997-find-the-town-judge](https://github.com/Janet-Sulochana/LeetCode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1002-find-common-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/1002-find-common-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Janet-Sulochana/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -488,6 +490,7 @@ Just to Code!!
 | [0859-buddy-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/0859-buddy-strings/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Janet-Sulochana/LeetCode/tree/main/0917-reverse-only-letters/) | Easy |
 | [0925-long-pressed-name](https://github.com/Janet-Sulochana/LeetCode/tree/main/0925-long-pressed-name/) | Easy |
+| [0929-unique-email-addresses](https://github.com/Janet-Sulochana/LeetCode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1002-find-common-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/1002-find-common-characters/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Janet-Sulochana/LeetCode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1154-day-of-the-year](https://github.com/Janet-Sulochana/LeetCode/tree/main/1154-day-of-the-year/) | Easy |
