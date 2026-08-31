@@ -508,6 +508,7 @@ Just to Code!!
 | [1332-remove-palindromic-subsequences](https://github.com/Janet-Sulochana/LeetCode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1360-number-of-days-between-two-dates](https://github.com/Janet-Sulochana/LeetCode/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/1370-increasing-decreasing-string/) | Easy |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Janet-Sulochana/LeetCode/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
 | [1436-destination-city](https://github.com/Janet-Sulochana/LeetCode/tree/main/1436-destination-city/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Janet-Sulochana/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
