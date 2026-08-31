@@ -98,6 +98,7 @@ Just to Code!!
 | [0918-maximum-sum-circular-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1025-divisor-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [1227-airplane-seat-assignment-probability](https://github.com/Janet-Sulochana/LeetCode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
+| [1668-maximum-repeating-substring](https://github.com/Janet-Sulochana/LeetCode/tree/main/1668-maximum-repeating-substring/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -527,6 +528,7 @@ Just to Code!!
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1629-slowest-key](https://github.com/Janet-Sulochana/LeetCode/tree/main/1629-slowest-key/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Janet-Sulochana/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1668-maximum-repeating-substring](https://github.com/Janet-Sulochana/LeetCode/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Janet-Sulochana/LeetCode/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Janet-Sulochana/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -791,6 +793,7 @@ Just to Code!!
 | [0459-repeated-substring-pattern](https://github.com/Janet-Sulochana/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
+| [1668-maximum-repeating-substring](https://github.com/Janet-Sulochana/LeetCode/tree/main/1668-maximum-repeating-substring/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
