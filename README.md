@@ -551,6 +551,7 @@ Just to Code!!
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Janet-Sulochana/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Janet-Sulochana/LeetCode/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
 | [1915-number-of-wonderful-substrings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1915-number-of-wonderful-substrings/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Janet-Sulochana/LeetCode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
