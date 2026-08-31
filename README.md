@@ -524,6 +524,7 @@ Just to Code!!
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Janet-Sulochana/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1528-shuffle-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/1528-shuffle-string/) | Easy |
+| [1556-thousand-separator](https://github.com/Janet-Sulochana/LeetCode/tree/main/1556-thousand-separator/) | Easy |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/1576-replace-all-s-to-avoid-consecutive-repeating-characters/) | Easy |
 | [1592-rearrange-spaces-between-words](https://github.com/Janet-Sulochana/LeetCode/tree/main/1592-rearrange-spaces-between-words/) | Easy |
 | [1598-crawler-log-folder](https://github.com/Janet-Sulochana/LeetCode/tree/main/1598-crawler-log-folder/) | Easy |
