@@ -177,6 +177,7 @@ Just to Code!!
 | [0997-find-the-town-judge](https://github.com/Janet-Sulochana/LeetCode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1002-find-common-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/1002-find-common-characters/) | Easy |
 | [1051-height-checker](https://github.com/Janet-Sulochana/LeetCode/tree/main/1051-height-checker/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Janet-Sulochana/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Janet-Sulochana/LeetCode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Janet-Sulochana/LeetCode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
@@ -415,6 +416,7 @@ Just to Code!!
 | [0929-unique-email-addresses](https://github.com/Janet-Sulochana/LeetCode/tree/main/0929-unique-email-addresses/) | Easy |
 | [0997-find-the-town-judge](https://github.com/Janet-Sulochana/LeetCode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1002-find-common-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/1002-find-common-characters/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Janet-Sulochana/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Janet-Sulochana/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Janet-Sulochana/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -498,6 +500,7 @@ Just to Code!!
 | [1078-occurrences-after-bigram](https://github.com/Janet-Sulochana/LeetCode/tree/main/1078-occurrences-after-bigram/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Janet-Sulochana/LeetCode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1154-day-of-the-year](https://github.com/Janet-Sulochana/LeetCode/tree/main/1154-day-of-the-year/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Janet-Sulochana/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/1370-increasing-decreasing-string/) | Easy |
@@ -724,6 +727,7 @@ Just to Code!!
 | [0912-sort-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Janet-Sulochana/LeetCode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1051-height-checker](https://github.com/Janet-Sulochana/LeetCode/tree/main/1051-height-checker/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Janet-Sulochana/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
