@@ -514,6 +514,7 @@ Just to Code!!
 | [1408-string-matching-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1436-destination-city](https://github.com/Janet-Sulochana/LeetCode/tree/main/1436-destination-city/) | Easy |
+| [1446-consecutive-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/1446-consecutive-characters/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Janet-Sulochana/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1528-shuffle-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/1528-shuffle-string/) | Easy |
