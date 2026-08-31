@@ -437,6 +437,7 @@ Just to Code!!
 | [1684-count-the-number-of-consistent-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Janet-Sulochana/LeetCode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
+| [1796-second-largest-digit-in-a-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Janet-Sulochana/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1915-number-of-wonderful-substrings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1915-number-of-wonderful-substrings/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Janet-Sulochana/LeetCode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
@@ -541,6 +542,7 @@ Just to Code!!
 | [1768-merge-strings-alternately](https://github.com/Janet-Sulochana/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Janet-Sulochana/LeetCode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Janet-Sulochana/LeetCode/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
+| [1796-second-largest-digit-in-a-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1816-truncate-sentence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Janet-Sulochana/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/1844-replace-all-digits-with-characters/) | Easy |
