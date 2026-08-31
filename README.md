@@ -157,6 +157,7 @@ Just to Code!!
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Janet-Sulochana/LeetCode/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0705-design-hashset](https://github.com/Janet-Sulochana/LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [0733-flood-fill](https://github.com/Janet-Sulochana/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0748-shortest-completing-word](https://github.com/Janet-Sulochana/LeetCode/tree/main/0748-shortest-completing-word/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/Janet-Sulochana/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0832-flipping-an-image](https://github.com/Janet-Sulochana/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Janet-Sulochana/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -397,6 +398,7 @@ Just to Code!!
 | [0575-distribute-candies](https://github.com/Janet-Sulochana/LeetCode/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Janet-Sulochana/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0705-design-hashset](https://github.com/Janet-Sulochana/LeetCode/tree/main/0705-design-hashset/) | Easy |
+| [0748-shortest-completing-word](https://github.com/Janet-Sulochana/LeetCode/tree/main/0748-shortest-completing-word/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Janet-Sulochana/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Janet-Sulochana/LeetCode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0997-find-the-town-judge](https://github.com/Janet-Sulochana/LeetCode/tree/main/0997-find-the-town-judge/) | Easy |
@@ -468,6 +470,7 @@ Just to Code!!
 | [0657-robot-return-to-origin](https://github.com/Janet-Sulochana/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/Janet-Sulochana/LeetCode/tree/main/0709-to-lower-case/) | Easy |
+| [0748-shortest-completing-word](https://github.com/Janet-Sulochana/LeetCode/tree/main/0748-shortest-completing-word/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Janet-Sulochana/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1002-find-common-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/1002-find-common-characters/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Janet-Sulochana/LeetCode/tree/main/1108-defanging-an-ip-address/) | Easy |
