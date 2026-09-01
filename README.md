@@ -229,6 +229,7 @@ Just to Code!!
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Janet-Sulochana/LeetCode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Janet-Sulochana/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Janet-Sulochana/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Janet-Sulochana/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Janet-Sulochana/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -559,6 +560,7 @@ Just to Code!!
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Janet-Sulochana/LeetCode/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Janet-Sulochana/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Janet-Sulochana/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Janet-Sulochana/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
