@@ -563,6 +563,7 @@ Just to Code!!
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Janet-Sulochana/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Janet-Sulochana/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Janet-Sulochana/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2027-minimum-moves-to-convert-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Janet-Sulochana/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
@@ -699,6 +700,7 @@ Just to Code!!
 | [1710-maximum-units-on-a-truck](https://github.com/Janet-Sulochana/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/1736-latest-time-by-replacing-hidden-digits/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2027-minimum-moves-to-convert-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Janet-Sulochana/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Janet-Sulochana/LeetCode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
