@@ -191,6 +191,7 @@ Just to Code!!
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Janet-Sulochana/LeetCode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
+| [1310-xor-queries-of-a-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Janet-Sulochana/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Janet-Sulochana/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -479,6 +480,7 @@ Just to Code!!
 | [0209-minimum-size-subarray-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Janet-Sulochana/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Janet-Sulochana/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1310-xor-queries-of-a-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -651,6 +653,7 @@ Just to Code!!
 | [0477-total-hamming-distance](https://github.com/Janet-Sulochana/LeetCode/tree/main/0477-total-hamming-distance/) | Medium |
 | [0832-flipping-an-image](https://github.com/Janet-Sulochana/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0980-unique-paths-iii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
+| [1310-xor-queries-of-a-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Janet-Sulochana/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1720-decode-xored-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1720-decode-xored-array/) | Easy |
