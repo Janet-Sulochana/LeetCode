@@ -226,6 +226,7 @@ Just to Code!!
 | [1720-decode-xored-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1720-decode-xored-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Janet-Sulochana/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Janet-Sulochana/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Janet-Sulochana/LeetCode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1816-truncate-sentence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
