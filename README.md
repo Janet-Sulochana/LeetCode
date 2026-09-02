@@ -209,6 +209,7 @@ Just to Code!!
 | [1512-number-of-good-pairs](https://github.com/Janet-Sulochana/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/1528-shuffle-string/) | Easy |
 | [1534-count-good-triplets](https://github.com/Janet-Sulochana/LeetCode/tree/main/1534-count-good-triplets/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/Janet-Sulochana/LeetCode/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Janet-Sulochana/LeetCode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -337,6 +338,7 @@ Just to Code!!
 | [0825-friends-of-appropriate-ages](https://github.com/Janet-Sulochana/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Janet-Sulochana/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Janet-Sulochana/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Janet-Sulochana/LeetCode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Tree
