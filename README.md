@@ -231,6 +231,7 @@ Just to Code!!
 | [1816-truncate-sentence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1854-maximum-population-year](https://github.com/Janet-Sulochana/LeetCode/tree/main/1854-maximum-population-year/) | Easy |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Janet-Sulochana/LeetCode/tree/main/1909-remove-one-element-to-make-the-array-strictly-increasing/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Janet-Sulochana/LeetCode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Janet-Sulochana/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
