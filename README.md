@@ -80,6 +80,7 @@ Just to Code!!
 | [2469-convert-the-temperature](https://github.com/Janet-Sulochana/LeetCode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2652-sum-multiples](https://github.com/Janet-Sulochana/LeetCode/tree/main/2652-sum-multiples/) | Easy |
+| [3360-stone-removal-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Janet-Sulochana/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -864,6 +865,7 @@ Just to Code!!
 | [2169-count-operations-to-obtain-zero](https://github.com/Janet-Sulochana/LeetCode/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
