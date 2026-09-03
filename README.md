@@ -259,6 +259,7 @@ Just to Code!!
 | [2574-left-and-right-sum-differences](https://github.com/Janet-Sulochana/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/Janet-Sulochana/LeetCode/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Janet-Sulochana/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Janet-Sulochana/LeetCode/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
@@ -858,6 +859,7 @@ Just to Code!!
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/Janet-Sulochana/LeetCode/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
