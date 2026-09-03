@@ -81,6 +81,7 @@ Just to Code!!
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2652-sum-multiples](https://github.com/Janet-Sulochana/LeetCode/tree/main/2652-sum-multiples/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Janet-Sulochana/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -257,6 +258,7 @@ Just to Code!!
 | [2574-left-and-right-sum-differences](https://github.com/Janet-Sulochana/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/Janet-Sulochana/LeetCode/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Janet-Sulochana/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Janet-Sulochana/LeetCode/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Two Pointers
