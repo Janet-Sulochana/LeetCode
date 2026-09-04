@@ -265,6 +265,7 @@ Just to Code!!
 | [2942-find-words-containing-character](https://github.com/Janet-Sulochana/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3745-maximize-expression-of-three-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Janet-Sulochana/LeetCode/tree/main/3769-sort-integers-by-binary-reflection/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Janet-Sulochana/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
@@ -348,6 +349,7 @@ Just to Code!!
 | [2465-number-of-distinct-averages](https://github.com/Janet-Sulochana/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2974-minimum-number-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3745-maximize-expression-of-three-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Janet-Sulochana/LeetCode/tree/main/3769-sort-integers-by-binary-reflection/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Janet-Sulochana/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
@@ -765,6 +767,7 @@ Just to Code!!
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Janet-Sulochana/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Janet-Sulochana/LeetCode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
+| [3745-maximize-expression-of-three-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -921,6 +924,7 @@ Just to Code!!
 | ------- | ------- |
 | [1534-count-good-triplets](https://github.com/Janet-Sulochana/LeetCode/tree/main/1534-count-good-triplets/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Janet-Sulochana/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
+| [3745-maximize-expression-of-three-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
