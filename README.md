@@ -265,6 +265,7 @@ Just to Code!!
 | [2942-find-words-containing-character](https://github.com/Janet-Sulochana/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/Janet-Sulochana/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Janet-Sulochana/LeetCode/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
@@ -345,6 +346,7 @@ Just to Code!!
 | [2465-number-of-distinct-averages](https://github.com/Janet-Sulochana/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2974-minimum-number-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/Janet-Sulochana/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -484,6 +486,7 @@ Just to Code!!
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Janet-Sulochana/LeetCode/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2418-sort-the-people](https://github.com/Janet-Sulochana/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Janet-Sulochana/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/Janet-Sulochana/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -876,6 +879,7 @@ Just to Code!!
 | [2974-minimum-number-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3360-stone-removal-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/Janet-Sulochana/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
