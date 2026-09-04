@@ -43,6 +43,7 @@ Just to Code!!
 | [0009-palindrome-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0062-unique-paths](https://github.com/Janet-Sulochana/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Janet-Sulochana/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/Janet-Sulochana/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/Janet-Sulochana/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0231-power-of-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -520,6 +521,7 @@ Just to Code!!
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Janet-Sulochana/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/Janet-Sulochana/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0067-add-binary](https://github.com/Janet-Sulochana/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/Janet-Sulochana/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0205-isomorphic-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Janet-Sulochana/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -656,6 +658,7 @@ Just to Code!!
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Janet-Sulochana/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/Janet-Sulochana/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
@@ -854,6 +857,7 @@ Just to Code!!
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Janet-Sulochana/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0495-teemo-attacking](https://github.com/Janet-Sulochana/LeetCode/tree/main/0495-teemo-attacking/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Janet-Sulochana/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Janet-Sulochana/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
