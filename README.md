@@ -275,6 +275,7 @@ Just to Code!!
 | [3842-toggle-light-bulbs](https://github.com/Janet-Sulochana/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/Janet-Sulochana/LeetCode/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 | [3895-count-digit-appearances](https://github.com/Janet-Sulochana/LeetCode/tree/main/3895-count-digit-appearances/) | Medium |
 | [3921-score-validator](https://github.com/Janet-Sulochana/LeetCode/tree/main/3921-score-validator/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Janet-Sulochana/LeetCode/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
@@ -940,6 +941,7 @@ Just to Code!!
 | [1534-count-good-triplets](https://github.com/Janet-Sulochana/LeetCode/tree/main/1534-count-good-triplets/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Janet-Sulochana/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/Janet-Sulochana/LeetCode/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
