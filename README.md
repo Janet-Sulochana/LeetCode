@@ -269,6 +269,7 @@ Just to Code!!
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Janet-Sulochana/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Janet-Sulochana/LeetCode/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Janet-Sulochana/LeetCode/tree/main/3769-sort-integers-by-binary-reflection/) | Easy |
@@ -907,6 +908,7 @@ Just to Code!!
 | [2974-minimum-number-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3360-stone-removal-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Janet-Sulochana/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3921-score-validator](https://github.com/Janet-Sulochana/LeetCode/tree/main/3921-score-validator/) | Easy |
 ## String Matching
