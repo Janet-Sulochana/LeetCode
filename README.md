@@ -274,6 +274,7 @@ Just to Code!!
 | [3842-toggle-light-bulbs](https://github.com/Janet-Sulochana/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3921-score-validator](https://github.com/Janet-Sulochana/LeetCode/tree/main/3921-score-validator/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Janet-Sulochana/LeetCode/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -638,6 +639,7 @@ Just to Code!!
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Janet-Sulochana/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/Janet-Sulochana/LeetCode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
+| [3921-score-validator](https://github.com/Janet-Sulochana/LeetCode/tree/main/3921-score-validator/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -897,6 +899,7 @@ Just to Code!!
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3360-stone-removal-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Janet-Sulochana/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
+| [3921-score-validator](https://github.com/Janet-Sulochana/LeetCode/tree/main/3921-score-validator/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
