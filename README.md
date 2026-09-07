@@ -265,6 +265,7 @@ Just to Code!!
 | [2418-sort-the-people](https://github.com/Janet-Sulochana/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Janet-Sulochana/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Janet-Sulochana/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/Janet-Sulochana/LeetCode/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Janet-Sulochana/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
@@ -917,6 +918,7 @@ Just to Code!!
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/Janet-Sulochana/LeetCode/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3360-stone-removal-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
