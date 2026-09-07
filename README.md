@@ -270,6 +270,7 @@ Just to Code!!
 | [2553-separate-the-digits-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Janet-Sulochana/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/Janet-Sulochana/LeetCode/tree/main/2678-number-of-senior-citizens/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Janet-Sulochana/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -964,6 +965,7 @@ Just to Code!!
 | ------- | ------- |
 | [1534-count-good-triplets](https://github.com/Janet-Sulochana/LeetCode/tree/main/1534-count-good-triplets/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Janet-Sulochana/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Janet-Sulochana/LeetCode/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 ## Bracket Sequences
