@@ -166,6 +166,7 @@ Just to Code!!
 | [0575-distribute-candies](https://github.com/Janet-Sulochana/LeetCode/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Janet-Sulochana/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0598-range-addition-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0598-range-addition-ii/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Janet-Sulochana/LeetCode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0605-can-place-flowers](https://github.com/Janet-Sulochana/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Janet-Sulochana/LeetCode/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
@@ -474,6 +475,7 @@ Just to Code!!
 | [0560-subarray-sum-equals-k](https://github.com/Janet-Sulochana/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0575-distribute-candies](https://github.com/Janet-Sulochana/LeetCode/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Janet-Sulochana/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Janet-Sulochana/LeetCode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0705-design-hashset](https://github.com/Janet-Sulochana/LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [0748-shortest-completing-word](https://github.com/Janet-Sulochana/LeetCode/tree/main/0748-shortest-completing-word/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Janet-Sulochana/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
@@ -563,6 +565,7 @@ Just to Code!!
 | [0459-repeated-substring-pattern](https://github.com/Janet-Sulochana/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0500-keyboard-row](https://github.com/Janet-Sulochana/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0520-detect-capital](https://github.com/Janet-Sulochana/LeetCode/tree/main/0520-detect-capital/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Janet-Sulochana/LeetCode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Janet-Sulochana/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/Janet-Sulochana/LeetCode/tree/main/0709-to-lower-case/) | Easy |
