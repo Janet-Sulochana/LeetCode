@@ -264,6 +264,7 @@ Just to Code!!
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Janet-Sulochana/LeetCode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Janet-Sulochana/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Janet-Sulochana/LeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Janet-Sulochana/LeetCode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2418-sort-the-people](https://github.com/Janet-Sulochana/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Janet-Sulochana/LeetCode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
@@ -369,6 +370,7 @@ Just to Code!!
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Janet-Sulochana/LeetCode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Janet-Sulochana/LeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Janet-Sulochana/LeetCode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2418-sort-the-people](https://github.com/Janet-Sulochana/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Janet-Sulochana/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
@@ -519,6 +521,7 @@ Just to Code!!
 | [2053-kth-distinct-string-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Janet-Sulochana/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Janet-Sulochana/LeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Janet-Sulochana/LeetCode/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2418-sort-the-people](https://github.com/Janet-Sulochana/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Janet-Sulochana/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
@@ -656,6 +659,7 @@ Just to Code!!
 | [2185-counting-words-with-a-given-prefix](https://github.com/Janet-Sulochana/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Janet-Sulochana/LeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2278-percentage-of-letter-in-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2278-percentage-of-letter-in-string/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Janet-Sulochana/LeetCode/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2315-count-asterisks](https://github.com/Janet-Sulochana/LeetCode/tree/main/2315-count-asterisks/) | Easy |
