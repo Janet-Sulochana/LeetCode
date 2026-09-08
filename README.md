@@ -275,6 +275,7 @@ Just to Code!!
 | [2574-left-and-right-sum-differences](https://github.com/Janet-Sulochana/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/Janet-Sulochana/LeetCode/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/Janet-Sulochana/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Janet-Sulochana/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -374,6 +375,7 @@ Just to Code!!
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Janet-Sulochana/LeetCode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2418-sort-the-people](https://github.com/Janet-Sulochana/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Janet-Sulochana/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/Janet-Sulochana/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2974-minimum-number-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Janet-Sulochana/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -525,6 +527,7 @@ Just to Code!!
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Janet-Sulochana/LeetCode/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2418-sort-the-people](https://github.com/Janet-Sulochana/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Janet-Sulochana/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/Janet-Sulochana/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Janet-Sulochana/LeetCode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Janet-Sulochana/LeetCode/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
