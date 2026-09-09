@@ -665,6 +665,7 @@ Just to Code!!
 | [2185-counting-words-with-a-given-prefix](https://github.com/Janet-Sulochana/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Janet-Sulochana/LeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2278-percentage-of-letter-in-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2278-percentage-of-letter-in-string/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Janet-Sulochana/LeetCode/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
