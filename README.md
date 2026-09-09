@@ -521,6 +521,7 @@ Just to Code!!
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Janet-Sulochana/LeetCode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Janet-Sulochana/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Janet-Sulochana/LeetCode/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Janet-Sulochana/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Janet-Sulochana/LeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
@@ -654,6 +655,7 @@ Just to Code!!
 | [2027-minimum-moves-to-convert-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Janet-Sulochana/LeetCode/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Janet-Sulochana/LeetCode/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Janet-Sulochana/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Janet-Sulochana/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -895,6 +897,7 @@ Just to Code!!
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Janet-Sulochana/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Janet-Sulochana/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Janet-Sulochana/LeetCode/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Janet-Sulochana/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Janet-Sulochana/LeetCode/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Janet-Sulochana/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
