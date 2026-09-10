@@ -263,6 +263,7 @@ Just to Code!!
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Janet-Sulochana/LeetCode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Janet-Sulochana/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/Janet-Sulochana/LeetCode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Janet-Sulochana/LeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Janet-Sulochana/LeetCode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
@@ -372,6 +373,7 @@ Just to Code!!
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Janet-Sulochana/LeetCode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/Janet-Sulochana/LeetCode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Janet-Sulochana/LeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Janet-Sulochana/LeetCode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2418-sort-the-people](https://github.com/Janet-Sulochana/LeetCode/tree/main/2418-sort-the-people/) | Easy |
@@ -525,6 +527,7 @@ Just to Code!!
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Janet-Sulochana/LeetCode/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Janet-Sulochana/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/Janet-Sulochana/LeetCode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Janet-Sulochana/LeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Janet-Sulochana/LeetCode/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Janet-Sulochana/LeetCode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
@@ -904,6 +907,7 @@ Just to Code!!
 | [2053-kth-distinct-string-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Janet-Sulochana/LeetCode/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Janet-Sulochana/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/Janet-Sulochana/LeetCode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Janet-Sulochana/LeetCode/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Janet-Sulochana/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Janet-Sulochana/LeetCode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
