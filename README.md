@@ -90,6 +90,7 @@ Just to Code!!
 | [2485-find-the-pivot-integer](https://github.com/Janet-Sulochana/LeetCode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2582-pass-the-pillow](https://github.com/Janet-Sulochana/LeetCode/tree/main/2582-pass-the-pillow/) | Easy |
 | [2652-sum-multiples](https://github.com/Janet-Sulochana/LeetCode/tree/main/2652-sum-multiples/) | Easy |
 | [3360-stone-removal-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -965,6 +966,7 @@ Just to Code!!
 | [2180-count-integers-with-even-digit-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2582-pass-the-pillow](https://github.com/Janet-Sulochana/LeetCode/tree/main/2582-pass-the-pillow/) | Easy |
 | [2974-minimum-number-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/Janet-Sulochana/LeetCode/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
