@@ -278,6 +278,7 @@ Just to Code!!
 | [2778-sum-of-squares-of-special-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Janet-Sulochana/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Janet-Sulochana/LeetCode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
+| [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Janet-Sulochana/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
