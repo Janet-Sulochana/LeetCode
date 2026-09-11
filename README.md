@@ -139,6 +139,7 @@ Just to Code!!
 | [0064-minimum-path-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/Janet-Sulochana/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Janet-Sulochana/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/Janet-Sulochana/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Janet-Sulochana/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Janet-Sulochana/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -722,12 +723,14 @@ Just to Code!!
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Janet-Sulochana/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0113-path-sum-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Janet-Sulochana/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/Janet-Sulochana/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/Janet-Sulochana/LeetCode/tree/main/0190-reverse-bits/) | Easy |
