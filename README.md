@@ -86,6 +86,7 @@ Just to Code!!
 | [2427-number-of-common-factors](https://github.com/Janet-Sulochana/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Janet-Sulochana/LeetCode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Janet-Sulochana/LeetCode/tree/main/2469-convert-the-temperature/) | Easy |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Janet-Sulochana/LeetCode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/Janet-Sulochana/LeetCode/tree/main/2652-sum-multiples/) | Easy |
@@ -554,6 +555,7 @@ Just to Code!!
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/Janet-Sulochana/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Janet-Sulochana/LeetCode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Janet-Sulochana/LeetCode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
