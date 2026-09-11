@@ -279,6 +279,7 @@ Just to Code!!
 | [2784-check-if-array-is-good](https://github.com/Janet-Sulochana/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Janet-Sulochana/LeetCode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
+| [2917-find-the-k-or-of-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/2917-find-the-k-or-of-an-array/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Janet-Sulochana/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -741,6 +742,7 @@ Just to Code!!
 | [1684-count-the-number-of-consistent-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1720-decode-xored-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1720-decode-xored-array/) | Easy |
 | [1915-number-of-wonderful-substrings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1915-number-of-wonderful-substrings/) | Medium |
+| [2917-find-the-k-or-of-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/2917-find-the-k-or-of-an-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
