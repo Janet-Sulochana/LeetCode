@@ -103,6 +103,7 @@ Just to Code!!
 | [3875-construct-uniform-parity-array-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3895-count-digit-appearances](https://github.com/Janet-Sulochana/LeetCode/tree/main/3895-count-digit-appearances/) | Medium |
+| [3908-valid-digit-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/3908-valid-digit-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
