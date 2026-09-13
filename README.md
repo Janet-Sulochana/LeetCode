@@ -95,6 +95,7 @@ Just to Code!!
 | [2582-pass-the-pillow](https://github.com/Janet-Sulochana/LeetCode/tree/main/2582-pass-the-pillow/) | Easy |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [2652-sum-multiples](https://github.com/Janet-Sulochana/LeetCode/tree/main/2652-sum-multiples/) | Easy |
+| [2729-check-if-the-number-is-fascinating](https://github.com/Janet-Sulochana/LeetCode/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [3360-stone-removal-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Janet-Sulochana/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -552,6 +553,7 @@ Just to Code!!
 | [2418-sort-the-people](https://github.com/Janet-Sulochana/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Janet-Sulochana/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/Janet-Sulochana/LeetCode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
+| [2729-check-if-the-number-is-fascinating](https://github.com/Janet-Sulochana/LeetCode/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Janet-Sulochana/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Janet-Sulochana/LeetCode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
