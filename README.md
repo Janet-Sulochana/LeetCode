@@ -74,6 +74,7 @@ Just to Code!!
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Janet-Sulochana/LeetCode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Janet-Sulochana/LeetCode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Janet-Sulochana/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/Janet-Sulochana/LeetCode/tree/main/1925-count-square-sum-triples/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -259,6 +260,7 @@ Just to Code!!
 | [1816-truncate-sentence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1854-maximum-population-year](https://github.com/Janet-Sulochana/LeetCode/tree/main/1854-maximum-population-year/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Janet-Sulochana/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Janet-Sulochana/LeetCode/tree/main/1909-remove-one-element-to-make-the-array-strictly-increasing/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Janet-Sulochana/LeetCode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Janet-Sulochana/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -722,6 +724,7 @@ Just to Code!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Janet-Sulochana/LeetCode/tree/main/0062-unique-paths/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Janet-Sulochana/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -743,6 +746,7 @@ Just to Code!!
 | [0078-subsets](https://github.com/Janet-Sulochana/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0113-path-sum-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Janet-Sulochana/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -765,6 +769,7 @@ Just to Code!!
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Janet-Sulochana/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1720-decode-xored-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1720-decode-xored-array/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Janet-Sulochana/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1915-number-of-wonderful-substrings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1915-number-of-wonderful-substrings/) | Medium |
 | [2917-find-the-k-or-of-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/2917-find-the-k-or-of-an-array/) | Easy |
 ## Stack
@@ -1020,6 +1025,7 @@ Just to Code!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1534-count-good-triplets](https://github.com/Janet-Sulochana/LeetCode/tree/main/1534-count-good-triplets/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Janet-Sulochana/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/Janet-Sulochana/LeetCode/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Janet-Sulochana/LeetCode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Janet-Sulochana/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
