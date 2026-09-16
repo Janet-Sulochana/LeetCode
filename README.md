@@ -104,6 +104,7 @@ Just to Code!!
 | [3360-stone-removal-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3516-find-closest-person](https://github.com/Janet-Sulochana/LeetCode/tree/main/3516-find-closest-person/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Janet-Sulochana/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Janet-Sulochana/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Janet-Sulochana/LeetCode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Janet-Sulochana/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
