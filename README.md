@@ -99,6 +99,7 @@ Just to Code!!
 | [2652-sum-multiples](https://github.com/Janet-Sulochana/LeetCode/tree/main/2652-sum-multiples/) | Easy |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Janet-Sulochana/LeetCode/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Janet-Sulochana/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3360-stone-removal-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Janet-Sulochana/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -307,6 +308,7 @@ Just to Code!!
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/Janet-Sulochana/LeetCode/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Janet-Sulochana/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Janet-Sulochana/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Janet-Sulochana/LeetCode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
