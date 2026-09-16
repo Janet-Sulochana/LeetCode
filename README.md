@@ -100,6 +100,7 @@ Just to Code!!
 | [2729-check-if-the-number-is-fascinating](https://github.com/Janet-Sulochana/LeetCode/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [2739-total-distance-traveled](https://github.com/Janet-Sulochana/LeetCode/tree/main/2739-total-distance-traveled/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
+| [2864-maximum-odd-binary-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Janet-Sulochana/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -720,6 +721,7 @@ Just to Code!!
 | [2678-number-of-senior-citizens](https://github.com/Janet-Sulochana/LeetCode/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Janet-Sulochana/LeetCode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
+| [2864-maximum-odd-binary-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Janet-Sulochana/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/Janet-Sulochana/LeetCode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3921-score-validator](https://github.com/Janet-Sulochana/LeetCode/tree/main/3921-score-validator/) | Easy |
@@ -867,6 +869,7 @@ Just to Code!!
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Janet-Sulochana/LeetCode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
+| [2864-maximum-odd-binary-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/Janet-Sulochana/LeetCode/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
