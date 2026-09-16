@@ -100,6 +100,7 @@ Just to Code!!
 | [2729-check-if-the-number-is-fascinating](https://github.com/Janet-Sulochana/LeetCode/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Janet-Sulochana/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3360-stone-removal-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Janet-Sulochana/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -1040,6 +1041,7 @@ Just to Code!!
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Janet-Sulochana/LeetCode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Janet-Sulochana/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Janet-Sulochana/LeetCode/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 ## Bracket Sequences
