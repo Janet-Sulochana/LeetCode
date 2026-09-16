@@ -98,6 +98,7 @@ Just to Code!!
 | [2600-k-items-with-the-maximum-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [2652-sum-multiples](https://github.com/Janet-Sulochana/LeetCode/tree/main/2652-sum-multiples/) | Easy |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Janet-Sulochana/LeetCode/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
+| [2769-find-the-maximum-achievable-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Janet-Sulochana/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
