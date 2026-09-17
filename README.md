@@ -103,6 +103,7 @@ Just to Code!!
 | [2864-maximum-odd-binary-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Janet-Sulochana/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Janet-Sulochana/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3360-stone-removal-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3516-find-closest-person](https://github.com/Janet-Sulochana/LeetCode/tree/main/3516-find-closest-person/) | Easy |
@@ -315,6 +316,7 @@ Just to Code!!
 | [3074-apple-redistribution-into-boxes](https://github.com/Janet-Sulochana/LeetCode/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Janet-Sulochana/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Janet-Sulochana/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Janet-Sulochana/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Janet-Sulochana/LeetCode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
@@ -572,6 +574,7 @@ Just to Code!!
 | [2549-count-distinct-numbers-on-board](https://github.com/Janet-Sulochana/LeetCode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Janet-Sulochana/LeetCode/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Janet-Sulochana/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Janet-Sulochana/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Janet-Sulochana/LeetCode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Janet-Sulochana/LeetCode/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
