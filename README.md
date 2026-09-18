@@ -714,6 +714,7 @@ Just to Code!!
 | [2185-counting-words-with-a-given-prefix](https://github.com/Janet-Sulochana/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Janet-Sulochana/LeetCode/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Janet-Sulochana/LeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
@@ -873,6 +874,7 @@ Just to Code!!
 | [2027-minimum-moves-to-convert-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Janet-Sulochana/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Janet-Sulochana/LeetCode/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Janet-Sulochana/LeetCode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/2864-maximum-odd-binary-number/) | Easy |
@@ -1052,6 +1054,7 @@ Just to Code!!
 | [1534-count-good-triplets](https://github.com/Janet-Sulochana/LeetCode/tree/main/1534-count-good-triplets/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Janet-Sulochana/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/Janet-Sulochana/LeetCode/tree/main/1925-count-square-sum-triples/) | Easy |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Janet-Sulochana/LeetCode/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Janet-Sulochana/LeetCode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Janet-Sulochana/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
