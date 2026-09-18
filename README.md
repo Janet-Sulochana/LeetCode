@@ -84,6 +84,7 @@ Just to Code!!
 | [2169-count-operations-to-obtain-zero](https://github.com/Janet-Sulochana/LeetCode/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2235-add-two-integers](https://github.com/Janet-Sulochana/LeetCode/tree/main/2235-add-two-integers/) | Easy |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Janet-Sulochana/LeetCode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Janet-Sulochana/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Janet-Sulochana/LeetCode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
@@ -714,6 +715,7 @@ Just to Code!!
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Janet-Sulochana/LeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2278-percentage-of-letter-in-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2278-percentage-of-letter-in-string/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Janet-Sulochana/LeetCode/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
@@ -739,6 +741,7 @@ Just to Code!!
 | [0594-longest-harmonious-subsequence](https://github.com/Janet-Sulochana/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Janet-Sulochana/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
