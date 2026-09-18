@@ -133,6 +133,7 @@ Just to Code!!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Janet-Sulochana/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0139-word-break](https://github.com/Janet-Sulochana/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Janet-Sulochana/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Janet-Sulochana/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -176,6 +177,7 @@ Just to Code!!
 | [0135-candy](https://github.com/Janet-Sulochana/LeetCode/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0137-single-number-ii/) | Medium |
+| [0139-word-break](https://github.com/Janet-Sulochana/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/Janet-Sulochana/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/Janet-Sulochana/LeetCode/tree/main/0162-find-peak-element/) | Medium |
@@ -521,6 +523,7 @@ Just to Code!!
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Janet-Sulochana/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/Janet-Sulochana/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Janet-Sulochana/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0139-word-break](https://github.com/Janet-Sulochana/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/Janet-Sulochana/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0205-isomorphic-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Janet-Sulochana/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -629,6 +632,7 @@ Just to Code!!
 | [0067-add-binary](https://github.com/Janet-Sulochana/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/Janet-Sulochana/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Janet-Sulochana/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0139-word-break](https://github.com/Janet-Sulochana/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Janet-Sulochana/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/Janet-Sulochana/LeetCode/tree/main/0290-word-pattern/) | Easy |
@@ -993,6 +997,7 @@ Just to Code!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Janet-Sulochana/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0139-word-break](https://github.com/Janet-Sulochana/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -1105,8 +1110,13 @@ Just to Code!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Janet-Sulochana/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/Janet-Sulochana/LeetCode/tree/main/0139-word-break/) | Medium |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Janet-Sulochana/LeetCode/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
