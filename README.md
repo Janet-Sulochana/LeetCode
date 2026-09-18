@@ -136,6 +136,7 @@ Just to Code!!
 | [0787-cheapest-flights-within-k-stops](https://github.com/Janet-Sulochana/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1025-divisor-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/1025-divisor-game/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/Janet-Sulochana/LeetCode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/Janet-Sulochana/LeetCode/tree/main/1668-maximum-repeating-substring/) | Easy |
 ## Brainteaser
@@ -654,6 +655,7 @@ Just to Code!!
 | [1071-greatest-common-divisor-of-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1078-occurrences-after-bigram](https://github.com/Janet-Sulochana/LeetCode/tree/main/1078-occurrences-after-bigram/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Janet-Sulochana/LeetCode/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1154-day-of-the-year](https://github.com/Janet-Sulochana/LeetCode/tree/main/1154-day-of-the-year/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Janet-Sulochana/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -1099,4 +1101,8 @@ Just to Code!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Janet-Sulochana/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
