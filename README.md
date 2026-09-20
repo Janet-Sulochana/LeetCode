@@ -234,6 +234,7 @@ Just to Code!!
 | [1089-duplicate-zeros](https://github.com/Janet-Sulochana/LeetCode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1184-distance-between-bus-stops](https://github.com/Janet-Sulochana/LeetCode/tree/main/1184-distance-between-bus-stops/) | Easy |
+| [1200-minimum-absolute-difference](https://github.com/Janet-Sulochana/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Janet-Sulochana/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Janet-Sulochana/LeetCode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Janet-Sulochana/LeetCode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
@@ -408,6 +409,7 @@ Just to Code!!
 | [0976-largest-perimeter-triangle](https://github.com/Janet-Sulochana/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/Janet-Sulochana/LeetCode/tree/main/1051-height-checker/) | Easy |
+| [1200-minimum-absolute-difference](https://github.com/Janet-Sulochana/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Janet-Sulochana/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
