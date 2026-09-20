@@ -256,6 +256,7 @@ Just to Code!!
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Janet-Sulochana/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1436-destination-city](https://github.com/Janet-Sulochana/LeetCode/tree/main/1436-destination-city/) | Easy |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Janet-Sulochana/LeetCode/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Janet-Sulochana/LeetCode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Janet-Sulochana/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -413,6 +414,7 @@ Just to Code!!
 | [1331-rank-transform-of-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Janet-Sulochana/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Janet-Sulochana/LeetCode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Janet-Sulochana/LeetCode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Janet-Sulochana/LeetCode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
@@ -567,6 +569,7 @@ Just to Code!!
 | [1370-increasing-decreasing-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1436-destination-city](https://github.com/Janet-Sulochana/LeetCode/tree/main/1436-destination-city/) | Easy |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Janet-Sulochana/LeetCode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Janet-Sulochana/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
