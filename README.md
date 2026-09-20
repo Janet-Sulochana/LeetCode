@@ -273,6 +273,7 @@ Just to Code!!
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1629-slowest-key](https://github.com/Janet-Sulochana/LeetCode/tree/main/1629-slowest-key/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Janet-Sulochana/LeetCode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
+| [1646-get-maximum-in-generated-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Janet-Sulochana/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Janet-Sulochana/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -1027,6 +1028,7 @@ Just to Code!!
 | [0832-flipping-an-image](https://github.com/Janet-Sulochana/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Janet-Sulochana/LeetCode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Janet-Sulochana/LeetCode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [1646-get-maximum-in-generated-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Janet-Sulochana/LeetCode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Janet-Sulochana/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Janet-Sulochana/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
