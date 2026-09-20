@@ -281,6 +281,7 @@ Just to Code!!
 | [1773-count-items-matching-a-rule](https://github.com/Janet-Sulochana/LeetCode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1816-truncate-sentence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Janet-Sulochana/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1854-maximum-population-year](https://github.com/Janet-Sulochana/LeetCode/tree/main/1854-maximum-population-year/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Janet-Sulochana/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Janet-Sulochana/LeetCode/tree/main/1909-remove-one-element-to-make-the-array-strictly-increasing/) | Easy |
