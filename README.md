@@ -233,6 +233,7 @@ Just to Code!!
 | [1051-height-checker](https://github.com/Janet-Sulochana/LeetCode/tree/main/1051-height-checker/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Janet-Sulochana/LeetCode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1184-distance-between-bus-stops](https://github.com/Janet-Sulochana/LeetCode/tree/main/1184-distance-between-bus-stops/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Janet-Sulochana/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Janet-Sulochana/LeetCode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Janet-Sulochana/LeetCode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
