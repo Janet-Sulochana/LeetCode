@@ -138,6 +138,7 @@ Just to Code!!
 | [0139-word-break](https://github.com/Janet-Sulochana/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Janet-Sulochana/LeetCode/tree/main/0198-house-robber/) | Medium |
+| [0494-target-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Janet-Sulochana/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Janet-Sulochana/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -197,6 +198,7 @@ Just to Code!!
 | [0455-assign-cookies](https://github.com/Janet-Sulochana/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0463-island-perimeter](https://github.com/Janet-Sulochana/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0477-total-hamming-distance](https://github.com/Janet-Sulochana/LeetCode/tree/main/0477-total-hamming-distance/) | Medium |
+| [0494-target-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0495-teemo-attacking](https://github.com/Janet-Sulochana/LeetCode/tree/main/0495-teemo-attacking/) | Easy |
 | [0500-keyboard-row](https://github.com/Janet-Sulochana/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -798,6 +800,7 @@ Just to Code!!
 | ------- | ------- |
 | [0078-subsets](https://github.com/Janet-Sulochana/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0113-path-sum-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
+| [0494-target-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Janet-Sulochana/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Bit Manipulation
@@ -1141,4 +1144,12 @@ Just to Code!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/Janet-Sulochana/LeetCode/tree/main/0139-word-break/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0494-target-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
