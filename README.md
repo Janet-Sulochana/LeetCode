@@ -110,6 +110,7 @@ Just to Code!!
 | [3360-stone-removal-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3516-find-closest-person](https://github.com/Janet-Sulochana/LeetCode/tree/main/3516-find-closest-person/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Janet-Sulochana/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Janet-Sulochana/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Janet-Sulochana/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Janet-Sulochana/LeetCode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
@@ -339,6 +340,7 @@ Just to Code!!
 | [3232-find-if-digit-game-can-be-won](https://github.com/Janet-Sulochana/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Janet-Sulochana/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Janet-Sulochana/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Janet-Sulochana/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Janet-Sulochana/LeetCode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
