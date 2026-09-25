@@ -824,6 +824,7 @@ Just to Code!!
 | [0461-hamming-distance](https://github.com/Janet-Sulochana/LeetCode/tree/main/0461-hamming-distance/) | Easy |
 | [0476-number-complement](https://github.com/Janet-Sulochana/LeetCode/tree/main/0476-number-complement/) | Easy |
 | [0477-total-hamming-distance](https://github.com/Janet-Sulochana/LeetCode/tree/main/0477-total-hamming-distance/) | Medium |
+| [0693-binary-number-with-alternating-bits](https://github.com/Janet-Sulochana/LeetCode/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [0832-flipping-an-image](https://github.com/Janet-Sulochana/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0980-unique-paths-iii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1310-xor-queries-of-a-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
