@@ -60,6 +60,7 @@ Just to Code!!
 | [1071-greatest-common-divisor-of-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1154-day-of-the-year](https://github.com/Janet-Sulochana/LeetCode/tree/main/1154-day-of-the-year/) | Easy |
+| [1185-day-of-the-week](https://github.com/Janet-Sulochana/LeetCode/tree/main/1185-day-of-the-week/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Janet-Sulochana/LeetCode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1227-airplane-seat-assignment-probability](https://github.com/Janet-Sulochana/LeetCode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Janet-Sulochana/LeetCode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
