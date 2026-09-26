@@ -773,6 +773,7 @@ Just to Code!!
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Janet-Sulochana/LeetCode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Janet-Sulochana/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
+| [3813-vowel-consonant-score](https://github.com/Janet-Sulochana/LeetCode/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/Janet-Sulochana/LeetCode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3921-score-validator](https://github.com/Janet-Sulochana/LeetCode/tree/main/3921-score-validator/) | Easy |
 ## Sliding Window
@@ -1074,6 +1075,7 @@ Just to Code!!
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3360-stone-removal-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3813-vowel-consonant-score](https://github.com/Janet-Sulochana/LeetCode/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Janet-Sulochana/LeetCode/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3921-score-validator](https://github.com/Janet-Sulochana/LeetCode/tree/main/3921-score-validator/) | Easy |
 ## String Matching
