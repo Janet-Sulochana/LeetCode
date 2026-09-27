@@ -320,6 +320,7 @@ Just to Code!!
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Janet-Sulochana/LeetCode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Janet-Sulochana/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Janet-Sulochana/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/Janet-Sulochana/LeetCode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Janet-Sulochana/LeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
@@ -603,6 +604,7 @@ Just to Code!!
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Janet-Sulochana/LeetCode/tree/main/2068-check-whether-two-strings-are-almost-equivalent/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Janet-Sulochana/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Janet-Sulochana/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/Janet-Sulochana/LeetCode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Janet-Sulochana/LeetCode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Janet-Sulochana/LeetCode/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
