@@ -318,6 +318,7 @@ Just to Code!!
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Janet-Sulochana/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Janet-Sulochana/LeetCode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Janet-Sulochana/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/Janet-Sulochana/LeetCode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
