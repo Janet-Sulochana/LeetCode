@@ -203,6 +203,7 @@ Just to Code!!
 | [0268-missing-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Janet-Sulochana/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Janet-Sulochana/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0304-range-sum-query-2d-immutable](https://github.com/Janet-Sulochana/LeetCode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0455-assign-cookies](https://github.com/Janet-Sulochana/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0463-island-perimeter](https://github.com/Janet-Sulochana/LeetCode/tree/main/0463-island-perimeter/) | Easy |
@@ -641,6 +642,7 @@ Just to Code!!
 | [0209-minimum-size-subarray-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Janet-Sulochana/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Janet-Sulochana/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0304-range-sum-query-2d-immutable](https://github.com/Janet-Sulochana/LeetCode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Janet-Sulochana/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
@@ -811,6 +813,7 @@ Just to Code!!
 | [0063-unique-paths-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/Janet-Sulochana/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/Janet-Sulochana/LeetCode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0463-island-perimeter](https://github.com/Janet-Sulochana/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Janet-Sulochana/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0733-flood-fill](https://github.com/Janet-Sulochana/LeetCode/tree/main/0733-flood-fill/) | Easy |
@@ -914,6 +917,7 @@ Just to Code!!
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Janet-Sulochana/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/Janet-Sulochana/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0304-range-sum-query-2d-immutable](https://github.com/Janet-Sulochana/LeetCode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0705-design-hashset](https://github.com/Janet-Sulochana/LeetCode/tree/main/0705-design-hashset/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
