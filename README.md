@@ -49,6 +49,7 @@ Just to Code!!
 | [0149-max-points-on-a-line](https://github.com/Janet-Sulochana/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0231-power-of-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0357-count-numbers-with-unique-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0477-total-hamming-distance](https://github.com/Janet-Sulochana/LeetCode/tree/main/0477-total-hamming-distance/) | Medium |
 | [0598-range-addition-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0598-range-addition-ii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Janet-Sulochana/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -145,6 +146,7 @@ Just to Code!!
 | [0152-maximum-product-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Janet-Sulochana/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0337-house-robber-iii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0337-house-robber-iii/) | Medium |
+| [0357-count-numbers-with-unique-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0494-target-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Janet-Sulochana/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Janet-Sulochana/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -829,6 +831,7 @@ Just to Code!!
 | ------- | ------- |
 | [0078-subsets](https://github.com/Janet-Sulochana/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0113-path-sum-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
+| [0357-count-numbers-with-unique-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0494-target-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Janet-Sulochana/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
