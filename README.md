@@ -670,6 +670,7 @@ Just to Code!!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Janet-Sulochana/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Janet-Sulochana/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Janet-Sulochana/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/Janet-Sulochana/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
@@ -862,6 +863,7 @@ Just to Code!!
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Janet-Sulochana/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Janet-Sulochana/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -1144,6 +1146,7 @@ Just to Code!!
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Quicksort
