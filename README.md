@@ -58,6 +58,7 @@ Just to Code!!
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Janet-Sulochana/LeetCode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Janet-Sulochana/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1025-divisor-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/1025-divisor-game/) | Easy |
+| [1033-moving-stones-until-consecutive](https://github.com/Janet-Sulochana/LeetCode/tree/main/1033-moving-stones-until-consecutive/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1154-day-of-the-year](https://github.com/Janet-Sulochana/LeetCode/tree/main/1154-day-of-the-year/) | Easy |
@@ -160,6 +161,7 @@ Just to Code!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/1025-divisor-game/) | Easy |
+| [1033-moving-stones-until-consecutive](https://github.com/Janet-Sulochana/LeetCode/tree/main/1033-moving-stones-until-consecutive/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/Janet-Sulochana/LeetCode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
