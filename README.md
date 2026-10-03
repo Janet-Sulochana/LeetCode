@@ -47,6 +47,7 @@ Just to Code!!
 | [0067-add-binary](https://github.com/Janet-Sulochana/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/Janet-Sulochana/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/Janet-Sulochana/LeetCode/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0168-excel-sheet-column-title](https://github.com/Janet-Sulochana/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0231-power-of-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0357-count-numbers-with-unique-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
@@ -683,6 +684,7 @@ Just to Code!!
 | [0072-edit-distance](https://github.com/Janet-Sulochana/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Janet-Sulochana/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0139-word-break](https://github.com/Janet-Sulochana/LeetCode/tree/main/0139-word-break/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/Janet-Sulochana/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Janet-Sulochana/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/Janet-Sulochana/LeetCode/tree/main/0290-word-pattern/) | Easy |
