@@ -708,6 +708,7 @@ Just to Code!!
 | [0819-most-common-word](https://github.com/Janet-Sulochana/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Janet-Sulochana/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0830-positions-of-large-groups](https://github.com/Janet-Sulochana/LeetCode/tree/main/0830-positions-of-large-groups/) | Easy |
+| [0856-score-of-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0859-buddy-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/0859-buddy-strings/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Janet-Sulochana/LeetCode/tree/main/0917-reverse-only-letters/) | Easy |
 | [0925-long-pressed-name](https://github.com/Janet-Sulochana/LeetCode/tree/main/0925-long-pressed-name/) | Easy |
@@ -883,6 +884,7 @@ Just to Code!!
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Janet-Sulochana/LeetCode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Janet-Sulochana/LeetCode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Janet-Sulochana/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1598-crawler-log-folder](https://github.com/Janet-Sulochana/LeetCode/tree/main/1598-crawler-log-folder/) | Easy |
@@ -1160,6 +1162,7 @@ Just to Code!!
 | [0020-valid-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Quicksort
