@@ -1000,6 +1000,7 @@ Just to Code!!
 | [1527-patients-with-a-condition](https://github.com/Janet-Sulochana/LeetCode/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Janet-Sulochana/LeetCode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/1587-bank-account-summary-ii/) | Easy |
+| [1667-fix-names-in-a-table](https://github.com/Janet-Sulochana/LeetCode/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/Janet-Sulochana/LeetCode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Janet-Sulochana/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Janet-Sulochana/LeetCode/tree/main/1873-calculate-special-bonus/) | Easy |
