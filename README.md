@@ -52,6 +52,7 @@ Just to Code!!
 | [0231-power-of-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0357-count-numbers-with-unique-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Janet-Sulochana/LeetCode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0477-total-hamming-distance](https://github.com/Janet-Sulochana/LeetCode/tree/main/0477-total-hamming-distance/) | Medium |
 | [0598-range-addition-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0598-range-addition-ii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Janet-Sulochana/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -695,6 +696,7 @@ Just to Code!!
 | [0345-reverse-vowels-of-a-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/Janet-Sulochana/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/Janet-Sulochana/LeetCode/tree/main/0389-find-the-difference/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Janet-Sulochana/LeetCode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/Janet-Sulochana/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0500-keyboard-row](https://github.com/Janet-Sulochana/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Janet-Sulochana/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -856,6 +858,7 @@ Just to Code!!
 | [0231-power-of-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Janet-Sulochana/LeetCode/tree/main/0389-find-the-difference/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Janet-Sulochana/LeetCode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0461-hamming-distance](https://github.com/Janet-Sulochana/LeetCode/tree/main/0461-hamming-distance/) | Easy |
 | [0476-number-complement](https://github.com/Janet-Sulochana/LeetCode/tree/main/0476-number-complement/) | Easy |
