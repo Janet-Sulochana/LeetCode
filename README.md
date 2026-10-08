@@ -129,6 +129,7 @@ Just to Code!!
 | [3876-construct-uniform-parity-array-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3895-count-digit-appearances](https://github.com/Janet-Sulochana/LeetCode/tree/main/3895-count-digit-appearances/) | Medium |
 | [3908-valid-digit-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/3908-valid-digit-number/) | Easy |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -971,6 +972,7 @@ Just to Code!!
 | [3074-apple-redistribution-into-boxes](https://github.com/Janet-Sulochana/LeetCode/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
