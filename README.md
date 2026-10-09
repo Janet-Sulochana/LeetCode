@@ -739,6 +739,7 @@ Just to Code!!
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Janet-Sulochana/LeetCode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Janet-Sulochana/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1528-shuffle-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/1528-shuffle-string/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1556-thousand-separator](https://github.com/Janet-Sulochana/LeetCode/tree/main/1556-thousand-separator/) | Easy |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/1576-replace-all-s-to-avoid-consecutive-repeating-characters/) | Easy |
 | [1592-rearrange-spaces-between-words](https://github.com/Janet-Sulochana/LeetCode/tree/main/1592-rearrange-spaces-between-words/) | Easy |
@@ -893,6 +894,7 @@ Just to Code!!
 | [0856-score-of-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Janet-Sulochana/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1598-crawler-log-folder](https://github.com/Janet-Sulochana/LeetCode/tree/main/1598-crawler-log-folder/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Janet-Sulochana/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -958,6 +960,7 @@ Just to Code!!
 | [0976-largest-perimeter-triangle](https://github.com/Janet-Sulochana/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Janet-Sulochana/LeetCode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/Janet-Sulochana/LeetCode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/1736-latest-time-by-replacing-hidden-digits/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Janet-Sulochana/LeetCode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
@@ -1179,6 +1182,7 @@ Just to Code!!
 | [0678-valid-parenthesis-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
