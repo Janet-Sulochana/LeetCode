@@ -54,6 +54,7 @@ Just to Code!!
 | [0357-count-numbers-with-unique-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Janet-Sulochana/LeetCode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0477-total-hamming-distance](https://github.com/Janet-Sulochana/LeetCode/tree/main/0477-total-hamming-distance/) | Medium |
+| [0486-predict-the-winner](https://github.com/Janet-Sulochana/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0598-range-addition-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0598-range-addition-ii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Janet-Sulochana/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/Janet-Sulochana/LeetCode/tree/main/0728-self-dividing-numbers/) | Easy |
@@ -152,6 +153,7 @@ Just to Code!!
 | [0198-house-robber](https://github.com/Janet-Sulochana/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0337-house-robber-iii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0337-house-robber-iii/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
+| [0486-predict-the-winner](https://github.com/Janet-Sulochana/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Janet-Sulochana/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -171,6 +173,7 @@ Just to Code!!
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Janet-Sulochana/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [1025-divisor-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 ## Array
@@ -218,6 +221,7 @@ Just to Code!!
 | [0455-assign-cookies](https://github.com/Janet-Sulochana/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0463-island-perimeter](https://github.com/Janet-Sulochana/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0477-total-hamming-distance](https://github.com/Janet-Sulochana/LeetCode/tree/main/0477-total-hamming-distance/) | Medium |
+| [0486-predict-the-winner](https://github.com/Janet-Sulochana/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0495-teemo-attacking](https://github.com/Janet-Sulochana/LeetCode/tree/main/0495-teemo-attacking/) | Easy |
 | [0500-keyboard-row](https://github.com/Janet-Sulochana/LeetCode/tree/main/0500-keyboard-row/) | Easy |
@@ -986,6 +990,7 @@ Just to Code!!
 | [0002-add-two-numbers](https://github.com/Janet-Sulochana/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0044-wildcard-matching](https://github.com/Janet-Sulochana/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [0231-power-of-two](https://github.com/Janet-Sulochana/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0486-predict-the-winner](https://github.com/Janet-Sulochana/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1244,4 +1249,12 @@ Just to Code!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Janet-Sulochana/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Janet-Sulochana/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Janet-Sulochana/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
