@@ -373,6 +373,7 @@ Just to Code!!
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Janet-Sulochana/LeetCode/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Janet-Sulochana/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Janet-Sulochana/LeetCode/tree/main/3769-sort-integers-by-binary-reflection/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
@@ -479,6 +480,7 @@ Just to Code!!
 | [3467-transform-array-by-parity](https://github.com/Janet-Sulochana/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Janet-Sulochana/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Janet-Sulochana/LeetCode/tree/main/3769-sort-integers-by-binary-reflection/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
@@ -981,6 +983,7 @@ Just to Code!!
 | [2864-maximum-odd-binary-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/Janet-Sulochana/LeetCode/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Janet-Sulochana/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
 ## Union-Find
