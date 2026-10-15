@@ -358,6 +358,7 @@ Just to Code!!
 | [2784-check-if-array-is-good](https://github.com/Janet-Sulochana/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Janet-Sulochana/LeetCode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2917-find-the-k-or-of-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/2917-find-the-k-or-of-an-array/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Janet-Sulochana/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/Janet-Sulochana/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
@@ -641,6 +642,7 @@ Just to Code!!
 | [2549-count-distinct-numbers-on-board](https://github.com/Janet-Sulochana/LeetCode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Janet-Sulochana/LeetCode/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Janet-Sulochana/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Janet-Sulochana/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/Janet-Sulochana/LeetCode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
@@ -1247,10 +1249,12 @@ Just to Code!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Janet-Sulochana/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Janet-Sulochana/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Sqrt Decomposition
 | Problem Name | Difficulty |
 | ------- | ------- |
