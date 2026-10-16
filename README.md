@@ -76,6 +76,7 @@ Just to Code!!
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Janet-Sulochana/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Janet-Sulochana/LeetCode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Janet-Sulochana/LeetCode/tree/main/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Janet-Sulochana/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1360-number-of-days-between-two-dates](https://github.com/Janet-Sulochana/LeetCode/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
