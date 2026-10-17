@@ -372,6 +372,7 @@ Just to Code!!
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Janet-Sulochana/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Janet-Sulochana/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Janet-Sulochana/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3663-find-the-least-frequent-digit](https://github.com/Janet-Sulochana/LeetCode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -482,6 +483,7 @@ Just to Code!!
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Janet-Sulochana/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Janet-Sulochana/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
@@ -646,6 +648,7 @@ Just to Code!!
 | [2784-check-if-array-is-good](https://github.com/Janet-Sulochana/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Janet-Sulochana/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Janet-Sulochana/LeetCode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3663-find-the-least-frequent-digit](https://github.com/Janet-Sulochana/LeetCode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Janet-Sulochana/LeetCode/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
