@@ -1273,4 +1273,8 @@ Just to Code!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Janet-Sulochana/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0193-valid-phone-numbers](https://github.com/Janet-Sulochana/LeetCode/tree/main/0193-valid-phone-numbers/) | Easy |
 <!---LeetCode Topics End-->
