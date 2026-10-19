@@ -272,6 +272,7 @@ Just to Code!!
 | [1266-minimum-time-visiting-all-points](https://github.com/Janet-Sulochana/LeetCode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/Janet-Sulochana/LeetCode/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Janet-Sulochana/LeetCode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -453,6 +454,7 @@ Just to Code!!
 | [0977-squares-of-a-sorted-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/Janet-Sulochana/LeetCode/tree/main/1051-height-checker/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Janet-Sulochana/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/Janet-Sulochana/LeetCode/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Janet-Sulochana/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Janet-Sulochana/LeetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
@@ -501,6 +503,7 @@ Just to Code!!
 | [0633-sum-of-square-numbers](https://github.com/Janet-Sulochana/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Janet-Sulochana/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/Janet-Sulochana/LeetCode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/Janet-Sulochana/LeetCode/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Janet-Sulochana/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Janet-Sulochana/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
