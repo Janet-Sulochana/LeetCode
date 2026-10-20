@@ -687,6 +687,7 @@ Just to Code!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Janet-Sulochana/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/Janet-Sulochana/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Janet-Sulochana/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -960,6 +961,7 @@ Just to Code!!
 | [0304-range-sum-query-2d-immutable](https://github.com/Janet-Sulochana/LeetCode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/Janet-Sulochana/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0705-design-hashset](https://github.com/Janet-Sulochana/LeetCode/tree/main/0705-design-hashset/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/Janet-Sulochana/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1280,4 +1282,8 @@ Just to Code!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0193-valid-phone-numbers](https://github.com/Janet-Sulochana/LeetCode/tree/main/0193-valid-phone-numbers/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/Janet-Sulochana/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
