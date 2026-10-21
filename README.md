@@ -823,6 +823,7 @@ Just to Code!!
 | [2942-find-words-containing-character](https://github.com/Janet-Sulochana/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/Janet-Sulochana/LeetCode/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3856-trim-trailing-vowels](https://github.com/Janet-Sulochana/LeetCode/tree/main/3856-trim-trailing-vowels/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3884-first-matching-character-from-both-ends](https://github.com/Janet-Sulochana/LeetCode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3921-score-validator](https://github.com/Janet-Sulochana/LeetCode/tree/main/3921-score-validator/) | Easy |
 ## Sliding Window
