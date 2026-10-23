@@ -374,6 +374,7 @@ Just to Code!!
 | [3467-transform-array-by-parity](https://github.com/Janet-Sulochana/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Janet-Sulochana/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Janet-Sulochana/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3663-find-the-least-frequent-digit](https://github.com/Janet-Sulochana/LeetCode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Janet-Sulochana/LeetCode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -897,6 +898,7 @@ Just to Code!!
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Janet-Sulochana/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1915-number-of-wonderful-substrings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1915-number-of-wonderful-substrings/) | Medium |
 | [2917-find-the-k-or-of-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/2917-find-the-k-or-of-an-array/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Janet-Sulochana/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
