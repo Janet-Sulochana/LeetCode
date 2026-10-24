@@ -98,6 +98,7 @@ Just to Code!!
 | [2180-count-integers-with-even-digit-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2235-add-two-integers](https://github.com/Janet-Sulochana/LeetCode/tree/main/2235-add-two-integers/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Janet-Sulochana/LeetCode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
+| [2409-count-days-spent-together](https://github.com/Janet-Sulochana/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Janet-Sulochana/LeetCode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Janet-Sulochana/LeetCode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Janet-Sulochana/LeetCode/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
@@ -815,6 +816,7 @@ Just to Code!!
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Janet-Sulochana/LeetCode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2315-count-asterisks](https://github.com/Janet-Sulochana/LeetCode/tree/main/2315-count-asterisks/) | Easy |
+| [2409-count-days-spent-together](https://github.com/Janet-Sulochana/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2418-sort-the-people](https://github.com/Janet-Sulochana/LeetCode/tree/main/2418-sort-the-people/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Janet-Sulochana/LeetCode/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/Janet-Sulochana/LeetCode/tree/main/2678-number-of-senior-citizens/) | Easy |
