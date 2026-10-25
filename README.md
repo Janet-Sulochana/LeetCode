@@ -1044,6 +1044,7 @@ Just to Code!!
 | [1667-fix-names-in-a-table](https://github.com/Janet-Sulochana/LeetCode/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/Janet-Sulochana/LeetCode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Janet-Sulochana/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1795-rearrange-products-table](https://github.com/Janet-Sulochana/LeetCode/tree/main/1795-rearrange-products-table/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Janet-Sulochana/LeetCode/tree/main/1873-calculate-special-bonus/) | Easy |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/Janet-Sulochana/LeetCode/tree/main/3465-find-products-with-valid-serial-numbers/) | Easy |
 ## Monotonic Stack
