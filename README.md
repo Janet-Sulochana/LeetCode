@@ -244,6 +244,7 @@ Just to Code!!
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Janet-Sulochana/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Janet-Sulochana/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0748-shortest-completing-word](https://github.com/Janet-Sulochana/LeetCode/tree/main/0748-shortest-completing-word/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/Janet-Sulochana/LeetCode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0819-most-common-word](https://github.com/Janet-Sulochana/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Janet-Sulochana/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
@@ -608,6 +609,7 @@ Just to Code!!
 | [0705-design-hashset](https://github.com/Janet-Sulochana/LeetCode/tree/main/0705-design-hashset/) | Easy |
 | [0748-shortest-completing-word](https://github.com/Janet-Sulochana/LeetCode/tree/main/0748-shortest-completing-word/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Janet-Sulochana/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/Janet-Sulochana/LeetCode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0819-most-common-word](https://github.com/Janet-Sulochana/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [0859-buddy-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/0859-buddy-strings/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Janet-Sulochana/LeetCode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
@@ -730,6 +732,7 @@ Just to Code!!
 | [0709-to-lower-case](https://github.com/Janet-Sulochana/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [0748-shortest-completing-word](https://github.com/Janet-Sulochana/LeetCode/tree/main/0748-shortest-completing-word/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Janet-Sulochana/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/Janet-Sulochana/LeetCode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0819-most-common-word](https://github.com/Janet-Sulochana/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Janet-Sulochana/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
