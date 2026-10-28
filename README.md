@@ -262,6 +262,7 @@ Just to Code!!
 | [0980-unique-paths-iii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [0997-find-the-town-judge](https://github.com/Janet-Sulochana/LeetCode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1002-find-common-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/1002-find-common-characters/) | Easy |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1051-height-checker](https://github.com/Janet-Sulochana/LeetCode/tree/main/1051-height-checker/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Janet-Sulochana/LeetCode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Janet-Sulochana/LeetCode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -986,6 +987,7 @@ Just to Code!!
 | [0680-valid-palindrome-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Janet-Sulochana/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Janet-Sulochana/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Janet-Sulochana/LeetCode/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Janet-Sulochana/LeetCode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Janet-Sulochana/LeetCode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Janet-Sulochana/LeetCode/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
