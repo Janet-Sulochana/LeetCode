@@ -1297,4 +1297,8 @@ Just to Code!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/Janet-Sulochana/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Janet-Sulochana/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
