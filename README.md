@@ -138,6 +138,7 @@ Just to Code!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Janet-Sulochana/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Janet-Sulochana/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/Janet-Sulochana/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
@@ -706,6 +707,7 @@ Just to Code!!
 | [0005-longest-palindromic-substring](https://github.com/Janet-Sulochana/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Janet-Sulochana/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Janet-Sulochana/LeetCode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/Janet-Sulochana/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
@@ -871,6 +873,7 @@ Just to Code!!
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0078-subsets](https://github.com/Janet-Sulochana/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0113-path-sum-ii](https://github.com/Janet-Sulochana/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Janet-Sulochana/LeetCode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
@@ -1215,6 +1218,7 @@ Just to Code!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Janet-Sulochana/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Janet-Sulochana/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
